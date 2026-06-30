@@ -1,0 +1,2304 @@
+{
+  "questions": [
+    {
+      "id": "mq2025_e01",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Technology",
+      "difficulty": 1,
+      "question": "In February 2004, a British journalist coining a word in a Guardian article about downloadable audio content is credited with inventing which term?",
+      "answer": "Podcast",
+      "options": [
+        "Blog",
+        "Vlog",
+        "Podcast",
+        "Webcast"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Spot on! Your round, then!",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "It's Podcast! Ben Hammersley made it up to fill column space. Fill your glass instead."
+      ]
+    },
+    {
+      "id": "mq2025_e02",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Technology",
+      "difficulty": 1,
+      "question": "Which tech company's original logo depicted a person sitting under a tree, paired with a William Wordsworth quote about 'a mind forever voyaging'?",
+      "answer": "Apple",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "Apple",
+        "Xerox"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Absolutely nailed it! The bar cheers.",
+        "Right you are!"
+      ],
+      "lose": [
+        "Apple! The logo predated the bitten apple. More cider for comfort?"
+      ]
+    },
+    {
+      "id": "mq2025_e03",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Food & Drink",
+      "difficulty": 1,
+      "question": "Which appetiser, now common across Asian cuisines, supposedly gets its name from being eaten during the Lunar New Year?",
+      "answer": "Spring Rolls",
+      "options": [
+        "Dumplings",
+        "Spring Rolls",
+        "Samosas",
+        "Wontons"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Your table erupts! One point to the team!",
+        "Absolutely right!"
+      ],
+      "lose": [
+        "Spring Rolls! You can console yourself by ordering some."
+      ]
+    },
+    {
+      "id": "mq2025_e04",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science & Nature",
+      "difficulty": 1,
+      "question": "The fruit Ananas comosus gets its genus name 'Ananas' from its common name in dozens of non-English languages. Which fruit is this?",
+      "answer": "Pineapple",
+      "options": [
+        "Papaya",
+        "Mango",
+        "Pineapple",
+        "Guava"
+      ],
+      "correctOption": 2,
+      "win": [
+        "The QM's impressed. Drink up!",
+        "Spot on!"
+      ],
+      "lose": [
+        "Pineapple — or Ananas! Does it belong on pizza? The pub is divided."
+      ]
+    },
+    {
+      "id": "mq2025_e05",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science & Nature",
+      "difficulty": 1,
+      "question": "Which Southern African animal's name is said to derive from the Dutch for 'sea feline' or possibly a Sanskrit word for an ape — despite being neither?",
+      "answer": "Meerkat",
+      "options": [
+        "Warthog",
+        "Mongoose",
+        "Meerkat",
+        "Quokka"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Simples! One point to you.",
+        "Right you are — stand on your hind legs in celebration!"
+      ],
+      "lose": [
+        "Meerkat! They neither live by the sea nor are feline. Confusing name, great animal."
+      ]
+    },
+    {
+      "id": "mq2025_e06",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "Mormon-raised singer Benson Boone (forbidden from alcohol, tobacco, and coffee) became famous for performing which acrobatic stunt live onstage?",
+      "answer": "Backflip",
+      "options": [
+        "Cartwheel",
+        "Handstand",
+        "Backflip",
+        "Front flip"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Right you are! A flip of the wrist and a point to you!",
+        "Nailed it!"
+      ],
+      "lose": [
+        "Backflip! He needed something to replace all those banned vices."
+      ]
+    },
+    {
+      "id": "mq2025_e07",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science & Nature",
+      "difficulty": 1,
+      "question": "In October 2025, Iceland lost its status as free from which insect, when the species Culiseta annulata was spotted there for the first time?",
+      "answer": "Mosquito",
+      "options": [
+        "Wasp",
+        "Hornet",
+        "Tick",
+        "Mosquito"
+      ],
+      "correctOption": 3,
+      "win": [
+        "Correct! Buy yourself a drink — you've earned it.",
+        "Spot on!"
+      ],
+      "lose": [
+        "Mosquito! Even Iceland can't hide from them forever. Have a drink."
+      ]
+    },
+    {
+      "id": "mq2025_e08",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Quirky Facts",
+      "difficulty": 1,
+      "question": "In the run-up to Halloween 2025, the Spanish town of Terrassa banned the adoption of which type of pet, fearing sinister rituals?",
+      "answer": "Black cats",
+      "options": [
+        "Ravens",
+        "Bats",
+        "Black cats",
+        "Spiders"
+      ],
+      "correctOption": 2,
+      "win": [
+        "The QM salutes you! One point.",
+        "Correct and creepy — well done!"
+      ],
+      "lose": [
+        "Black cats! Poor superstition, great animals. The pub's black cat is unimpressed."
+      ]
+    },
+    {
+      "id": "mq2025_e09",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Movies & TV",
+      "difficulty": 1,
+      "question": "In the 1998 remake of The Parent Trap, twins Hallie and Annie were both played by which actress?",
+      "answer": "Lindsay Lohan",
+      "options": [
+        "Hilary Duff",
+        "Lindsay Lohan",
+        "Emma Roberts",
+        "Amanda Bynes"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Classic! The QM approves.",
+        "Right you are!"
+      ],
+      "lose": [
+        "Lindsay Lohan! She played both twins. Twice the effort, one pint of reward."
+      ]
+    },
+    {
+      "id": "mq2025_e10",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "General Knowledge",
+      "difficulty": 1,
+      "question": "The names of news agencies ATA (Albania), NTB (Norway), TT (Sweden), and TASS (Russia) all reference which now-obsolete technology?",
+      "answer": "Telegraph",
+      "options": [
+        "Radio",
+        "Telephone",
+        "Telegraph",
+        "Television"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Dot-dot-dash — that's correct!",
+        "Right! The QM's tapping his approval."
+      ],
+      "lose": [
+        "Telegraph! Once the internet of its day. Now just a word in agency names."
+      ]
+    },
+    {
+      "id": "mq2025_e11",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Sport",
+      "difficulty": 1,
+      "question": "In tennis, when the server's tossing arm is still straight and the racket arm is bent behind the body, the pose is called the ______ Position. Fill in the blank.",
+      "answer": "Trophy",
+      "options": [
+        "Victory",
+        "Serve",
+        "Trophy",
+        "Stance"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Ace! One point for the win.",
+        "Right! Now go and serve one up."
+      ],
+      "lose": [
+        "Trophy Position! Famously depicted on tennis trophies. You nearly had it."
+      ]
+    },
+    {
+      "id": "mq2025_e12",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Entertainment",
+      "difficulty": 1,
+      "question": "Terry Bollea, who was awarded $140 million in a 2016 lawsuit against Gawker Media, is better known by which wrestling name?",
+      "answer": "Hulk Hogan",
+      "options": [
+        "Stone Cold Steve Austin",
+        "The Rock",
+        "Hulk Hogan",
+        "Andre the Giant"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Whatcha gonna do, brother — you got it right!",
+        "Correct! The pub's going wild!"
+      ],
+      "lose": [
+        "Hulk Hogan, brother! Whatcha gonna do when the answer escapes you?"
+      ]
+    },
+    {
+      "id": "mq2024_e13",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Movies & TV",
+      "difficulty": 1,
+      "question": "Sudeepa, Vijay Sethupathi, Riteish Deshmukh, Nagarjuna, and Mohanlal are all current or former hosts of which Indian reality TV franchise?",
+      "answer": "Bigg Boss",
+      "options": [
+        "Khatron Ke Khiladi",
+        "Bigg Boss",
+        "Jhalak Dikhhla Jaa",
+        "KBC"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nominated for eviction — from the Wrong Answer Zone! Well played.",
+        "Correct!"
+      ],
+      "lose": [
+        "Bigg Boss! Hosted by celebrities across five languages. The house has spoken."
+      ]
+    },
+    {
+      "id": "mq2024_e14",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Economics",
+      "difficulty": 1,
+      "question": "Which seven-letter word — ultimately derived from Arabic via Italian and French — came roaring back into news with Donald Trump's trade policies in 2025?",
+      "answer": "Tariffs",
+      "options": [
+        "Imports",
+        "Tariffs",
+        "Quotas",
+        "Duties"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right! No duty to buy a round, but it's the done thing.",
+        "Spot on!"
+      ],
+      "lose": [
+        "Tariffs! From Arabic to global headlines in a few centuries."
+      ]
+    },
+    {
+      "id": "mq2024_e15",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Science & Nature",
+      "difficulty": 1,
+      "question": "Which North American burrowing rodent, first noted by the Lewis and Clark expedition in 1804, has a name combining 'open grasslands' with a domesticated animal?",
+      "answer": "Prairie Dog",
+      "options": [
+        "Groundhog",
+        "Gopher",
+        "Prairie Dog",
+        "Marmot"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Barking up the right tree! One point.",
+        "Correct!"
+      ],
+      "lose": [
+        "Prairie Dog! Not a dog, not on a prairie exclusively. Nature's confusing."
+      ]
+    },
+    {
+      "id": "mq2024_e16",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "Following Diljit Dosanjh, which Indian artist was set to become the second Indian to perform at Coachella 2025?",
+      "answer": "Hanumankind",
+      "options": [
+        "Raja Kumari",
+        "Divine",
+        "Hanumankind",
+        "Priya Ragu"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Correct! Top-tier knowledge!",
+        "The QM's vibing to your answer."
+      ],
+      "lose": [
+        "Hanumankind! Real name Sooraj Cherukat. Quite the stage name upgrade."
+      ]
+    },
+    {
+      "id": "mq2024_e17",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Theatre",
+      "difficulty": 1,
+      "question": "On the day Queen Elizabeth II died, which West End musical's stage manager had to warn the audience its opening line — 'Good news! She's dead!' — would be performed unchanged?",
+      "answer": "Wicked",
+      "options": [
+        "Hamilton",
+        "Chicago",
+        "Wicked",
+        "Les Misérables"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Defying Gravity — into the winner's column! Well played.",
+        "Right!"
+      ],
+      "lose": [
+        "Wicked! Referring to the Wicked Witch, not the Queen. Awkward timing, brilliant show."
+      ]
+    },
+    {
+      "id": "mq2024_e18",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Sport",
+      "difficulty": 1,
+      "question": "The Oudtshoorn Derby in South Africa's Klein Karoo Festival features which creature that outnumbers Oudtshoorn's human population by 7 to 1?",
+      "answer": "Ostrich",
+      "options": [
+        "Emu",
+        "Rhea",
+        "Ostrich",
+        "Cassowary"
+      ],
+      "correctOption": 2,
+      "win": [
+        "You're racing ahead! Correct.",
+        "Right! Now imagine riding one."
+      ],
+      "lose": [
+        "Ostrich! Jockeys actually ride them. Helmets advised."
+      ]
+    },
+    {
+      "id": "mq2024_e19",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Sport",
+      "difficulty": 1,
+      "question": "Who won gold in the Women's 100m at Paris 2024, becoming the first-ever Olympic medallist for Saint Lucia?",
+      "answer": "Julien Alfred",
+      "options": [
+        "Sha'Carri Richardson",
+        "Julien Alfred",
+        "Dafne Schippers",
+        "Shelly-Ann Fraser-Pryce"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Gold medal answer! The pub celebrates.",
+        "Spot on!"
+      ],
+      "lose": [
+        "Julien Alfred! She made history for Saint Lucia. Fast as lightning."
+      ]
+    },
+    {
+      "id": "mq2024_e20",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "The 2024 biopic 'Better Man' depicts its subject as a CGI monkey — reflecting his belief that he performs like one. Whose life story is it?",
+      "answer": "Robbie Williams",
+      "options": [
+        "Eminem",
+        "Justin Timberlake",
+        "Robbie Williams",
+        "Michael Bublé"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Let me entertain you with that point! Correct.",
+        "Right you are!"
+      ],
+      "lose": [
+        "Robbie Williams! Feel free to sing 'Angels' in celebration or consolation."
+      ]
+    },
+    {
+      "id": "mq2024_e21",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Sport",
+      "difficulty": 1,
+      "question": "In which sport can a team achieve a rare 'eight-ender' — scoring the maximum of eight points in a single end of play?",
+      "answer": "Curling",
+      "options": [
+        "Bowling",
+        "Petanque",
+        "Bocce",
+        "Curling"
+      ],
+      "correctOption": 3,
+      "win": [
+        "You're sweeping the board! Correct.",
+        "Right! The skip is impressed."
+      ],
+      "lose": [
+        "Curling! Stones on ice, brooms, and the purest form of competitive stone-throwing."
+      ]
+    },
+    {
+      "id": "mq2024_e22",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "General Knowledge",
+      "difficulty": 1,
+      "question": "Balmoral, Oxford, Blucher, and Derby are all types of patterns or styles associated with which everyday object?",
+      "answer": "Shoes",
+      "options": [
+        "Ties",
+        "Belts",
+        "Shoes",
+        "Hats"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Step right into the winner's circle! Correct.",
+        "Right!"
+      ],
+      "lose": [
+        "Shoes! Lacing patterns specifically. The pub was on the right foot with this one."
+      ]
+    },
+    {
+      "id": "mq2024_e23",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Movies & TV",
+      "difficulty": 1,
+      "question": "Lily Snowden-Fine, Cecily Bloom, Harley Bird, and Amelie Bea Smith have all voiced which beloved animated character?",
+      "answer": "Peppa Pig",
+      "options": [
+        "Bob the Builder",
+        "Peppa Pig",
+        "Bluey",
+        "Dora the Explorer"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Oink oink — that's correct! Well done.",
+        "Snort of approval from the QM!"
+      ],
+      "lose": [
+        "Peppa Pig! Harley Bird held the role for 13 years. Oink."
+      ]
+    },
+    {
+      "id": "mq2024_e24",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Sport",
+      "difficulty": 1,
+      "question": "Rally mechanics have been known to use which mildly acidic soft drink in a pinch to clear oil from clutches and temporarily fix slipping?",
+      "answer": "Coca-Cola",
+      "options": [
+        "WD-40",
+        "Coca-Cola",
+        "Brake fluid",
+        "White vinegar"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Things go better with that correct answer! One point.",
+        "Right!"
+      ],
+      "lose": [
+        "Coca-Cola! It's available in most countries. Cuba, North Korea, and Russia excepted."
+      ]
+    },
+    {
+      "id": "mq2024_e25",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "General Knowledge",
+      "difficulty": 1,
+      "question": "Which red-coloured bird, named after a rank in the Catholic Church due to the colour of their robes, is linked to the superstition 'when they appear, angels are near'?",
+      "answer": "Cardinal",
+      "options": [
+        "Bishop",
+        "Robin",
+        "Cardinal",
+        "Jay"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Heavenly answer! The QM blesses your round.",
+        "Correct!"
+      ],
+      "lose": [
+        "Cardinal! The bird wears the red robes. Beautiful birds, though they've yet to canonise one."
+      ]
+    },
+    {
+      "id": "mq2024_e26",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Geography",
+      "difficulty": 1,
+      "question": "What is the Moscow building — meaning 'fortress within a city' in Russian — that is used as a metonym for the Russian government in international politics?",
+      "answer": "Kremlin",
+      "options": [
+        "Duma",
+        "Kremlin",
+        "Politburo",
+        "Lubyanka"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Da! Correct! Have a vodka — or a pint.",
+        "Right you are, comrade!"
+      ],
+      "lose": [
+        "Kremlin! The Duma is the parliament, the Kremlin is the fortress. Pub fact stored."
+      ]
+    },
+    {
+      "id": "mq2024_e27",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "The 2008 NKOTB reunion tour featured a then-unknown opening act who performed 'Just Dance'. Which Grammy- and Oscar-winning artist was it?",
+      "answer": "Lady Gaga",
+      "options": [
+        "Katy Perry",
+        "Taylor Swift",
+        "Lady Gaga",
+        "Rihanna"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Poker face — you knew it! Well played.",
+        "Right! She's been at it ever since."
+      ],
+      "lose": [
+        "Lady Gaga! She opened for the New Kids. Quite the warm-up gig."
+      ]
+    },
+    {
+      "id": "ms2026_e28",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Arts & Architecture",
+      "difficulty": 1,
+      "question": "Which iconic New York City building, named after the shape of its plot, finally had its exterior lights switched on in 2026 — over 100 years after it was built?",
+      "answer": "Flatiron Building",
+      "options": [
+        "Chrysler Building",
+        "Empire State Building",
+        "Flatiron Building",
+        "Woolworth Building"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Flat out correct! One point to you.",
+        "Right! Worth the wait — 100 years of darkness."
+      ],
+      "lose": [
+        "Flatiron Building! The triangular wedge at 175 Fifth Avenue. Now finally illuminated."
+      ]
+    },
+    {
+      "id": "ms2026_e29",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Arts & Architecture",
+      "difficulty": 1,
+      "question": "Which famous structure was once condemned as 'a truly tragic streetlamp', 'an iron monster', and 'an ungainly skeleton' by its critics?",
+      "answer": "Eiffel Tower",
+      "options": [
+        "Eiffel Tower",
+        "Big Ben",
+        "Sagrada Familia",
+        "Colosseum"
+      ],
+      "correctOption": 0,
+      "win": [
+        "La bonne réponse! One point to the table.",
+        "Right! Aged pretty well for an 'ungainly skeleton'."
+      ],
+      "lose": [
+        "Eiffel Tower! Critics hated it. Now it's the most visited monument in the world."
+      ]
+    },
+    {
+      "id": "ms2026_e30",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Movies & TV",
+      "difficulty": 1,
+      "question": "The statue that draws fans to the steps of the Philadelphia Museum of Art depicts which fictional character — a symbol of the underdog, perseverance, and grit?",
+      "answer": "Rocky Balboa",
+      "options": [
+        "Rocky Balboa",
+        "Muhammad Ali",
+        "Mike Tyson",
+        "Jake LaMotta"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Yo Adrian, you got it right! One point!",
+        "Correct! Gonna fly now."
+      ],
+      "lose": [
+        "Rocky Balboa! Sylvester Stallone's finest hour, immortalised in bronze in Philly."
+      ]
+    },
+    {
+      "id": "ms2026_e31",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "History",
+      "difficulty": 1,
+      "question": "Both the tradition of royal icing and tiny sugar bride-and-groom figurines on wedding cakes trace back to whose 1840 wedding?",
+      "answer": "Queen Victoria",
+      "options": [
+        "Queen Elizabeth II",
+        "Queen Victoria",
+        "Princess Diana",
+        "Queen Mary"
+      ],
+      "correctOption": 1,
+      "win": [
+        "We are not amused — we are delighted! Correct.",
+        "Right, your majesty!"
+      ],
+      "lose": [
+        "Queen Victoria! Her 1840 wedding to Prince Albert shaped wedding cake tradition permanently."
+      ]
+    },
+    {
+      "id": "ms2026_e32",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 1,
+      "question": "Shoyu chicken — thighs braised in soy sauce, brown sugar, ginger, and garlic — is a beloved staple of plate-lunch culture in which Pacific island?",
+      "answer": "Hawaii",
+      "options": [
+        "Fiji",
+        "Tahiti",
+        "Hawaii",
+        "Guam"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Aloha to that correct answer! One point.",
+        "Right! Hawaii has the best plate lunches."
+      ],
+      "lose": [
+        "Hawaii! Shoyu chicken is the unofficial state dish. Not on the tourist menus, but on every table."
+      ]
+    },
+    {
+      "id": "ms2026_e33",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 1,
+      "question": "According to culinary tradition, the number of pleats on a chef's toque was originally associated with the number of different ways a chef could prepare which ingredient?",
+      "answer": "Eggs",
+      "options": [
+        "Soufflés",
+        "Sauces",
+        "Eggs",
+        "Pastries"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Eggs-cellent answer! One point.",
+        "Right! Over easy, scrambled, poached — and correct!"
+      ],
+      "lose": [
+        "Eggs! A chef's hat with 100 pleats meant 100 ways with eggs. Bar fact unlocked."
+      ]
+    },
+    {
+      "id": "ms2026_e34",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 1,
+      "question": "Wild ancestors of which fruit had white flesh, were bitter, coated in toxins, and were mainly consumed by large mammals like elephants and hippos for hydration?",
+      "answer": "Watermelon",
+      "options": [
+        "Cantaloupe",
+        "Honeydew",
+        "Watermelon",
+        "Cucumber"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Refreshing answer! Correct.",
+        "Right! Sweet, juicy, and the result of millennia of breeding."
+      ],
+      "lose": [
+        "Watermelon! Originally a survival snack for elephants. Now a summer staple at pubs."
+      ]
+    },
+    {
+      "id": "ms2026_e35",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Mythology",
+      "difficulty": 1,
+      "question": "In Greek mythology, which fruit did Hades trick Persephone into eating, condemning her to spend part of each year in the underworld?",
+      "answer": "Pomegranate",
+      "options": [
+        "Apple",
+        "Pomegranate",
+        "Fig",
+        "Quince"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Mythologically correct! One point.",
+        "Right! Six seeds, six months underground."
+      ],
+      "lose": [
+        "Pomegranate! Six seeds = six months in Hades. The original terms and conditions."
+      ]
+    },
+    {
+      "id": "mq2025_m01",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Sport",
+      "difficulty": 2,
+      "question": "Banzuke is a ranked list written in stylized calligraphy, released 13 days before a tournament begins. In which Japanese sport are participants ranked this way?",
+      "answer": "Sumo",
+      "options": [
+        "Judo",
+        "Kendo",
+        "Sumo",
+        "Karate"
+      ],
+      "correctOption": 2,
+      "win": [
+        "You're a Yokozuna of trivia! Correct.",
+        "Right! Get in the ring."
+      ],
+      "lose": [
+        "Sumo! The banzuke ranking list is released with great ceremony. Now you know."
+      ]
+    },
+    {
+      "id": "mq2025_m02",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "India",
+      "difficulty": 2,
+      "question": "'Coastalwood' is the popular nickname for the film industry of which Indian language? Its first film was 1971's Enna Thangadi, and its biggest hit is 2019's Girgit.",
+      "answer": "Tulu",
+      "options": [
+        "Kodava",
+        "Konkani",
+        "Tulu",
+        "Kannada"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Tulu-ly fantastic answer! Correct.",
+        "Right! Karnataka's coastal cinema."
+      ],
+      "lose": [
+        "Tulu! Spoken in Coastal Karnataka and North Kerala. A lesser-known but vibrant film industry."
+      ]
+    },
+    {
+      "id": "mq2025_m03",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Arts",
+      "difficulty": 2,
+      "question": "Puccini's 1910 opera 'La fanciulla del West' (The Girl of the West) has retrospectively been dubbed the first example of which two-word artistic genre?",
+      "answer": "Spaghetti Western",
+      "options": [
+        "Opera Buffa",
+        "Spaghetti Western",
+        "Verismo",
+        "Grand Opera"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Magnifico! Correct and culturally fluent.",
+        "Right! Cowboys and arias — who knew?"
+      ],
+      "lose": [
+        "Spaghetti Western! Italian composers were obsessed with the American West long before Ennio Morricone."
+      ]
+    },
+    {
+      "id": "mq2025_m04",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "History",
+      "difficulty": 2,
+      "question": "Then-Secretary of State Condoleezza Rice signed a waiver calling whose listing on the US terrorist watchlist 'embarrassing', removing them in 2008?",
+      "answer": "Nelson Mandela",
+      "options": [
+        "Yasser Arafat",
+        "Nelson Mandela",
+        "Muammar Gaddafi",
+        "Fidel Castro"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right! Madiba would be pleased.",
+        "Correct — and about time too."
+      ],
+      "lose": [
+        "Nelson Mandela! The ANC was listed as a terrorist organisation. He was finally removed at 90."
+      ]
+    },
+    {
+      "id": "mq2025_m05",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "The WHO's DOTS strategy — directly observed therapy, short course — is the recommended control strategy for which infectious disease?",
+      "answer": "Tuberculosis",
+      "options": [
+        "Malaria",
+        "HIV/AIDS",
+        "Tuberculosis",
+        "Hepatitis B"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Healthy answer! Correct.",
+        "Right! DOTS saves millions of lives each year."
+      ],
+      "lose": [
+        "Tuberculosis! DOTS requires a healthcare worker to observe treatment for at least two months."
+      ]
+    },
+    {
+      "id": "mq2025_m06",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "A 2025 French food safety study found that items sold in which container type had the highest levels of microplastics — due to the sealing method?",
+      "answer": "Glass bottles",
+      "options": [
+        "Plastic bottles",
+        "Canned goods",
+        "Glass bottles",
+        "Tetrapak cartons"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Clear as glass — and correct!",
+        "Right! Counterintuitive but true."
+      ],
+      "lose": [
+        "Glass bottles! The metal caps leach microplastics. Even the 'clean' option has a catch."
+      ]
+    },
+    {
+      "id": "mq2025_m07",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "General Knowledge",
+      "difficulty": 2,
+      "question": "Disney uses two specific paint colours — 'Blending Blue' and 'Go Away Green' — at its theme parks for what purpose?",
+      "answer": "Camouflage",
+      "options": [
+        "Fire safety",
+        "Camouflage",
+        "Colour coding",
+        "Brand identity"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Now you see it — now you don't! Correct.",
+        "Right! The magic is in the colour choices."
+      ],
+      "lose": [
+        "Camouflage! Service doors and infrastructure are painted these shades so guests' eyes glide past them."
+      ]
+    },
+    {
+      "id": "mq2025_m08",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "Who became the first Pakistani artist to win a Grammy, taking Best Global Music Performance in 2022 for 'Mohabbat' from the album Vulture Prince?",
+      "answer": "Arooj Aftab",
+      "options": [
+        "Nusrat Fateh Ali Khan",
+        "Rahat Fateh Ali Khan",
+        "Arooj Aftab",
+        "Abida Parveen"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Mohabbat — that means love, and we love this answer! Correct.",
+        "Right!"
+      ],
+      "lose": [
+        "Arooj Aftab! A landmark moment for Pakistani music. Stunning album too."
+      ]
+    },
+    {
+      "id": "mq2025_m09",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "Which Nobel and Booker Prize-winning author was nominated for an Oscar for adapting Akira Kurosawa's 1952 film 'Ikiru' into the 2022 film 'Living'?",
+      "answer": "Kazuo Ishiguro",
+      "options": [
+        "Harold Pinter",
+        "Ian McEwan",
+        "Kazuo Ishiguro",
+        "Salman Rushdie"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Never Let Me Go wrong! Correct.",
+        "Right! Ishiguro — novelist, screenwriter, all-rounder."
+      ],
+      "lose": [
+        "Kazuo Ishiguro! He was also shortlisted for The Remains of the Day and The Unconsoled."
+      ]
+    },
+    {
+      "id": "mq2025_m10",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Culture",
+      "difficulty": 2,
+      "question": "Japanese Daruma dolls, popular as souvenirs, represent which historical figure who is said to have founded Zen Buddhism?",
+      "answer": "Bodhidharma",
+      "options": [
+        "Bodhidharma",
+        "Gautama Buddha",
+        "Dogen Zenji",
+        "Huang Po"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Zen and the art of getting quiz questions right! Correct.",
+        "Right!"
+      ],
+      "lose": [
+        "Bodhidharma! He meditated so long his limbs fell off — hence the limbless doll design."
+      ]
+    },
+    {
+      "id": "mq2025_m11",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Current Affairs",
+      "difficulty": 2,
+      "question": "Which Argentinian president has brandished a chainsaw at campaign rallies and even gifted one to Elon Musk as a symbol of his spending cuts?",
+      "answer": "Javier Milei",
+      "options": [
+        "Mauricio Macri",
+        "Javier Milei",
+        "Alberto Fernández",
+        "Sergio Massa"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp answer! Correct.",
+        "Right! Though we prefer a pint as a policy tool."
+      ],
+      "lose": [
+        "Javier Milei! Argentina's chainsaw-wielding libertarian president. Quite the brand."
+      ]
+    },
+    {
+      "id": "mq2025_m12",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Geopolitics",
+      "difficulty": 2,
+      "question": "In June 2017, India and Pakistan joined which international organisation, taking its membership to eight countries? It is based in Beijing and Tashkent.",
+      "answer": "Shanghai Cooperation Organisation",
+      "options": [
+        "BRICS",
+        "Shanghai Cooperation Organisation",
+        "G20",
+        "ASEAN"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Geopolitically correct! One point.",
+        "Right! Despite the name, they meet everywhere but Shanghai."
+      ],
+      "lose": [
+        "Shanghai Cooperation Organisation! The SCO — not to be confused with the SCO Linux drama."
+      ]
+    },
+    {
+      "id": "mq2025_m13",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Culture",
+      "difficulty": 2,
+      "question": "What Finnish word describes the strength to persevere through tasks that seem almost hopeless — a mentality credited with Finland's resistance against the Soviet attack of 1939?",
+      "answer": "Sisu",
+      "options": [
+        "Hygge",
+        "Lagom",
+        "Sisu",
+        "Ikigai"
+      ],
+      "correctOption": 2,
+      "win": [
+        "That took Sisu to know! Correct.",
+        "Right! The Finns have it. The QM admires it."
+      ],
+      "lose": [
+        "Sisu! Finland vs. the Soviet Union in the Winter War — Sisu in action. Inspiring stuff."
+      ]
+    },
+    {
+      "id": "mq2025_m14",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Sport",
+      "difficulty": 2,
+      "question": "Keirin cycling, introduced to the Olympics in 2000, originated in which country where it was established in 1948 and remains a form of legal betting?",
+      "answer": "Japan",
+      "options": [
+        "South Korea",
+        "China",
+        "Japan",
+        "France"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Pedalling into the points! Correct.",
+        "Right! The Japanese take their cycling very seriously."
+      ],
+      "lose": [
+        "Japan! Keirin is huge there — billions in annual betting. Competitive cycling meets horse racing."
+      ]
+    },
+    {
+      "id": "mq2025_m15",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Technology",
+      "difficulty": 2,
+      "question": "Google's 2024 quantum chip ran an algorithm 13,000 times faster than a classical supercomputer. Named after a Salix-genus tree, what is it called?",
+      "answer": "Willow",
+      "options": [
+        "Maple",
+        "Birch",
+        "Willow",
+        "Oak"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Weeping with joy at that correct answer! One point.",
+        "Right! Willow — following Sycamore and Bristlecone."
+      ],
+      "lose": [
+        "Willow! Google names its quantum chips after plants. Sycamore was the famous predecessor."
+      ]
+    },
+    {
+      "id": "mq2025_m16",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Food & Drink",
+      "difficulty": 2,
+      "question": "Which dried red berry — used in fattoush dressing and as a key ingredient in za'atar — gets its name from the Arabic word for 'dark red'?",
+      "answer": "Sumac",
+      "options": [
+        "Za'atar",
+        "Sumac",
+        "Harissa",
+        "Dukkah"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Tangy and correct! One point.",
+        "Right! Sumac — the secret weapon of Middle Eastern cooking."
+      ],
+      "lose": [
+        "Sumac! Tart, dark red, and absolutely delicious on everything. Look it up."
+      ]
+    },
+    {
+      "id": "mq2025_m17",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "World Leaders",
+      "difficulty": 2,
+      "question": "At 92, Paul Biya is Africa's oldest serving head of state, in power since 1982. Which country does he lead?",
+      "answer": "Cameroon",
+      "options": [
+        "Zimbabwe",
+        "Uganda",
+        "Cameroon",
+        "Equatorial Guinea"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Correct! You're practically a foreign policy expert.",
+        "Right on!"
+      ],
+      "lose": [
+        "Cameroon! Biya has been president since 1982. That's longer than most people here have been alive."
+      ]
+    },
+    {
+      "id": "mq2025_m18",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Geography",
+      "difficulty": 2,
+      "question": "A hilly Ugandan city emerged from a British fort built on a hunting reserve for antelopes and impalas. The local word for hill is 'Kasozi'. What is this capital city?",
+      "answer": "Kampala",
+      "options": [
+        "Nairobi",
+        "Kigali",
+        "Kampala",
+        "Lusaka"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Capital answer! Literally. Correct.",
+        "Right!"
+      ],
+      "lose": [
+        "Kampala! Built on seven hills, like Rome. Only with more red dust and boda bodas."
+      ]
+    },
+    {
+      "id": "mq2025_m19",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science & Nature",
+      "difficulty": 2,
+      "question": "The BAER test, recommended for all Dalmatian puppies, screens for which condition that affects 15–25% of the breed?",
+      "answer": "Deafness",
+      "options": [
+        "Hip dysplasia",
+        "Deafness",
+        "Progressive blindness",
+        "Epilepsy"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Heard loud and clear! Correct.",
+        "Right! The spots are cute; the hearing loss is not."
+      ],
+      "lose": [
+        "Deafness! BAER = Brainstem Auditory Evoked Response. Dalmatians are uniquely prone to it."
+      ]
+    },
+    {
+      "id": "mq2025_m20",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "History",
+      "difficulty": 2,
+      "question": "Who founded the first privately-funded soup kitchen in America — in Chicago in 1930 during the Great Depression — reportedly to rehabilitate his public image?",
+      "answer": "Al Capone",
+      "options": [
+        "Henry Ford",
+        "Al Capone",
+        "John D. Rockefeller",
+        "Bugsy Siegel"
+      ],
+      "correctOption": 1,
+      "win": [
+        "See, he had a heart! Correct.",
+        "Right! The QM appreciates the charitable villain."
+      ],
+      "lose": [
+        "Al Capone! Beef and tomato soup over pasta, free of charge. PR move of the century."
+      ]
+    },
+    {
+      "id": "mq2025_m21",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "Which Stanford neuroscientist and professor of Ophthalmology hosts one of the world's most popular health podcasts and authored 'Protocols: An Operating Manual for the Human Body'?",
+      "answer": "Andrew Huberman",
+      "options": [
+        "Peter Attia",
+        "Andrew Huberman",
+        "Rhonda Patrick",
+        "Mark Hyman"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Neurologically correct! One point.",
+        "Right! Eyes forward, sunlight in the morning."
+      ],
+      "lose": [
+        "Andrew Huberman! He'll tell you exactly what to do before, during, and after drinking that pint."
+      ]
+    },
+    {
+      "id": "mq2024_m22",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Science & Nature",
+      "difficulty": 2,
+      "question": "Although most widely produced by Bombyx mori silkworms, which natural product is also made by insects of the Hymenoptera order and some arachnids?",
+      "answer": "Silk",
+      "options": [
+        "Honey",
+        "Silk",
+        "Wax",
+        "Venom"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Smooth answer! Correct.",
+        "Right! Spiders spin it, wasps weave it — silk is everywhere."
+      ],
+      "lose": [
+        "Silk! Bees, wasps, and spiders also produce it. Not just for silkworms."
+      ]
+    },
+    {
+      "id": "mq2024_m23",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "Which Pulitzer Prize winner (Fiction, 1983) refused to allow publication of their best-known novel in Israel in 2012, as part of the BDS movement?",
+      "answer": "Alice Walker",
+      "options": [
+        "Toni Morrison",
+        "Alice Walker",
+        "Maya Angelou",
+        "Zora Neale Hurston"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The Color Purple? No, the color of this answer is gold! Correct.",
+        "Right!"
+      ],
+      "lose": [
+        "Alice Walker! Author of The Color Purple. Her BDS stance remains controversial."
+      ]
+    },
+    {
+      "id": "mq2024_m24",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "India",
+      "difficulty": 2,
+      "question": "Which Indian scientist operated under the secret codename 'Major General Prithviraj' during a 1997–98 project that became a defining achievement for India?",
+      "answer": "APJ Abdul Kalam",
+      "options": [
+        "Vikram Sarabhai",
+        "APJ Abdul Kalam",
+        "Homi Bhabha",
+        "Satish Dhawan"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Missile Man approved! Correct.",
+        "Right! The Pokhran-II nuclear tests."
+      ],
+      "lose": [
+        "APJ Abdul Kalam! The Pokhran-II nuclear tests were codenamed 'Operation Shakti'. Kalam led the team."
+      ]
+    },
+    {
+      "id": "mq2024_m25",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "Captain Henry Piddington coined which meteorological term in 1848 in the Journal of the Asiatic Society, deriving it from the Greek word for 'the coil of a snake'?",
+      "answer": "Cyclone",
+      "options": [
+        "Typhoon",
+        "Hurricane",
+        "Cyclone",
+        "Tornado"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Eye of the storm — and you're in it correctly! One point.",
+        "Right!"
+      ],
+      "lose": [
+        "Cyclone! From the Greek for snake coil. Piddington spent many a stormy night observing them."
+      ]
+    },
+    {
+      "id": "mq2024_m26",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Language",
+      "difficulty": 2,
+      "question": "What word — originally referring to an ancient Greek drinking party with music after a banquet — now commonly describes a conference or published collection of academic articles?",
+      "answer": "Symposium",
+      "options": [
+        "Colloquium",
+        "Seminar",
+        "Symposium",
+        "Congress"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Raise a glass — and a correct answer! One point.",
+        "Right! The Greeks just called it a party."
+      ],
+      "lose": [
+        "Symposium! From Greek 'to drink together'. Plato's most famous was a dinner-party dialogue."
+      ]
+    },
+    {
+      "id": "mq2024_m27",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Arts",
+      "difficulty": 2,
+      "question": "Which Austrian painter, trained in his goldsmith father's studio, first incorporated gold leaf extensively in his work 'Pallas Athene'?",
+      "answer": "Gustav Klimt",
+      "options": [
+        "Egon Schiele",
+        "Gustav Klimt",
+        "Oskar Kokoschka",
+        "Franz Marc"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Golden answer! The QM's impressed.",
+        "Right! Worth its weight in gold."
+      ],
+      "lose": [
+        "Gustav Klimt! The Kiss, The Tree of Life — his gold-leafed works are iconic."
+      ]
+    },
+    {
+      "id": "mq2024_m28",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "History",
+      "difficulty": 2,
+      "question": "Who defeated future Nobel Literature laureate Mario Vargas Llosa in a run-off to win the Peruvian presidential election of 1990?",
+      "answer": "Alberto Fujimori",
+      "options": [
+        "Alberto Fujimori",
+        "Alan García",
+        "Ollanta Humala",
+        "Pedro Pablo Kuczynski"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Presidentially correct! One point.",
+        "Right! One of history's most unlikely election results."
+      ],
+      "lose": [
+        "Alberto Fujimori! The son of Japanese immigrants defeated a celebrated novelist. Peru's wild 1990."
+      ]
+    },
+    {
+      "id": "mq2024_m29",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Cricket",
+      "difficulty": 2,
+      "question": "Punjab Kings spent Rs. 26.75 crore to buy which IPL-winning captain at auction, just before Lucknow Super Giants bid Rs. 27 crore for Rishabh Pant?",
+      "answer": "Shreyas Iyer",
+      "options": [
+        "Hardik Pandya",
+        "Shreyas Iyer",
+        "KL Rahul",
+        "Rohit Sharma"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Clean sweep! Correct.",
+        "Right! The IPL auction makes no financial sense — and we love it."
+      ],
+      "lose": [
+        "Shreyas Iyer! The man who led KKR to the IPL title. Worth every paisa, arguably."
+      ]
+    },
+    {
+      "id": "mq2024_m30",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Environment",
+      "difficulty": 2,
+      "question": "What term did environmentalist Jay Westerveld coin in a 1986 essay, criticising hotels for using towel-reuse schemes as misleading environmental claims?",
+      "answer": "Greenwashing",
+      "options": [
+        "Eco-fraud",
+        "Greenwashing",
+        "Sustainability washing",
+        "Eco-spinning"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Clean answer! Correct.",
+        "Right! If only the planet were as clean as that answer."
+      ],
+      "lose": [
+        "Greenwashing! The word that made every hotel hang a card over its bath towel hooks."
+      ]
+    },
+    {
+      "id": "mq2024_m31",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Geography",
+      "difficulty": 2,
+      "question": "The Yucatan Peninsula's natural water-filled wells — formed when limestone collapses — are known by what Mayan-derived word?",
+      "answer": "Cenote",
+      "options": [
+        "Sinkhole",
+        "Cenote",
+        "Karst pool",
+        "Dolina"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Crystal clear answer! Correct.",
+        "Right! The Mayans believed cenotes were portals to the underworld."
+      ],
+      "lose": [
+        "Cenote! The sacred swimming holes of the Yucatan. The Mayans used them for offerings."
+      ]
+    },
+    {
+      "id": "mq2024_m32",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Sport",
+      "difficulty": 2,
+      "question": "Which Olympic tradition — part of the games since 1896 — was discontinued after a mishap at the 1988 Seoul Olympics, where the birds flew into the Olympic flame?",
+      "answer": "Releasing of doves",
+      "options": [
+        "Torch relay",
+        "Releasing of doves",
+        "Opening parade of nations",
+        "Winners' wreath ceremony"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Peaceful and correct! One point.",
+        "Right! The doves didn't read the ceremony script."
+      ],
+      "lose": [
+        "Releasing of doves! Tragically, some doves flew into the flame at Seoul. The tradition was retired."
+      ]
+    },
+    {
+      "id": "mq2024_m33",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "India",
+      "difficulty": 2,
+      "question": "Stunt performer Reshma Pathan, who doubled for Waheeda Rehman, Rekha, and Sridevi, earned her nickname from stunts performed with a horse carriage. What was her nickname?",
+      "answer": "Sholay Girl",
+      "options": [
+        "Stunt Queen",
+        "Sholay Girl",
+        "Daredevil Didi",
+        "Iron Lady"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Kitne aadmi the? Just one correct answer — yours! Well done.",
+        "Right!"
+      ],
+      "lose": [
+        "Sholay Girl! Her tonga stunts were legendary. A biopic was made about her life."
+      ]
+    },
+    {
+      "id": "ms2026_m34",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "India",
+      "difficulty": 2,
+      "question": "The 2021 documentary 'Writing with Fire' features reporters from which Indian grassroots journalism collective run entirely by Dalit women?",
+      "answer": "Khabar Lahariya",
+      "options": [
+        "The Wire",
+        "Khabar Lahariya",
+        "Scroll",
+        "The Quint"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Headline-worthy answer! Correct.",
+        "Right! Khabar Lahariya — news waves."
+      ],
+      "lose": [
+        "Khabar Lahariya! Means 'waves of news'. Based in Bundelkhand. Genuinely remarkable journalism."
+      ]
+    },
+    {
+      "id": "ms2026_m35",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Sport",
+      "difficulty": 2,
+      "question": "Photographer Jacobus Rentmeester's 1984 Life magazine image of a basketball player airborne became the basis for which globally recognised logo?",
+      "answer": "Jumpman",
+      "options": [
+        "Nike Swoosh",
+        "Jumpman",
+        "Converse Star",
+        "Puma Formstrip"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Air it out — correct! One point.",
+        "Right! Jordan's silhouette, Rentmeester's frame."
+      ],
+      "lose": [
+        "Jumpman! Nike licensed Rentmeester's pose. He later sued Nike for $10 million. He lost."
+      ]
+    },
+    {
+      "id": "ms2026_m36",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 2,
+      "question": "The fungus Ustilago maydis creates tumor-like galls on corn — a crop disease in the US but a prized Mexican delicacy. What is this delicacy called?",
+      "answer": "Huitlacoche",
+      "options": [
+        "Huitlacoche",
+        "Epazote",
+        "Chapulines",
+        "Escamoles"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Muy bien! Correct — the fancy truffle of Mexico.",
+        "Right!"
+      ],
+      "lose": [
+        "Huitlacoche! Sometimes called Mexican truffle. Corn fungus, fancy restaurant menu. Remarkable."
+      ]
+    },
+    {
+      "id": "ms2026_m37",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 2,
+      "question": "David Strang of Invercargill patented the world's first commercially produced instant coffee in 1890, sold as 'Strang's Coffee'. In which country?",
+      "answer": "New Zealand",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "United States",
+        "United Kingdom"
+      ],
+      "correctOption": 1,
+      "win": [
+        "No waiting for that answer — instant and correct!",
+        "Right! Kiwi ingenuity."
+      ],
+      "lose": [
+        "New Zealand! The first instant coffee was Kiwi. The world's morning routines owe them a thank-you."
+      ]
+    },
+    {
+      "id": "ms2026_m38",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 2,
+      "question": "Hong Kong-style milk tea brewed through a cloth bag is nicknamed after which item of clothing the bag resembles?",
+      "answer": "Silk stockings",
+      "options": [
+        "Silk stockings",
+        "Woollen sock",
+        "Fishnet tights",
+        "Cotton sleeve"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Stocking up on points! Correct.",
+        "Right! Silky smooth tea through a silky smooth cloth."
+      ],
+      "lose": [
+        "Silk stockings! The tea bag resembles hosiery. Delicious despite the name."
+      ]
+    },
+    {
+      "id": "ms2026_m39",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Movies & TV",
+      "difficulty": 2,
+      "question": "While the Coen Brothers were filming 'No Country for Old Men', they had to halt a day's shoot due to smoke from explosions on the set of which other 2007 film?",
+      "answer": "There Will Be Blood",
+      "options": [
+        "Zodiac",
+        "There Will Be Blood",
+        "The Assassination of Jesse James",
+        "Michael Clayton"
+      ],
+      "correctOption": 1,
+      "win": [
+        "I drink your milkshake — and your correct answer! One point.",
+        "Right!"
+      ],
+      "lose": [
+        "There Will Be Blood! Two masterpieces being filmed simultaneously in the same California desert."
+      ]
+    },
+    {
+      "id": "ms2026_m40",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "In 1935, 22-year-old Edward Young went to London Zoo to sketch some malodorous animals. His drawings became which globally recognised corporate logo?",
+      "answer": "Penguin Books logo",
+      "options": [
+        "WWF panda",
+        "Penguin Books logo",
+        "Puffin Books logo",
+        "Pelican Books logo"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Page-turning answer! Correct.",
+        "Right! The Penguin colophon that launched a publishing revolution."
+      ],
+      "lose": [
+        "Penguin Books logo! Young sketched the penguins, Penguin Books used the design. Smelly but iconic."
+      ]
+    },
+    {
+      "id": "ms2026_m41",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "Which 1868 Wilkie Collins novel — praised by T.S. Eliot as the forerunner of the modern mystery — features a priceless diamond named after a Hindu god?",
+      "answer": "The Moonstone",
+      "options": [
+        "The Woman in White",
+        "The Moonstone",
+        "Armadale",
+        "The Dead Secret"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Gemstone answer! Correct.",
+        "Right! The Moonstone — the original whodunit."
+      ],
+      "lose": [
+        "The Moonstone! The diamond is said to be from the eye of an Indian idol. The first detective novel."
+      ]
+    },
+    {
+      "id": "ms2026_m42",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "Which author's 2012 TEDx talk 'We Should All Be Feminists' went viral and was later sampled in a Beyoncé song?",
+      "answer": "Chimamanda Ngozi Adichie",
+      "options": [
+        "Zadie Smith",
+        "Chimamanda Ngozi Adichie",
+        "Roxane Gay",
+        "bell hooks"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Flawless answer! Correct.",
+        "Right! Chimamanda Ngozi Adichie — one of the great voices of our time."
+      ],
+      "lose": [
+        "Chimamanda Ngozi Adichie! Beyoncé sampled her speech in 'Flawless'. The bar for bar collaborations."
+      ]
+    },
+    {
+      "id": "ms2026_m43",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 2,
+      "question": "Jambalaya is a Creole rice dish whose name may come from the Provençal word for 'mish mash', a rice pilaf word, or from the fusion of which two Spanish words?",
+      "answer": "Jamón and paella",
+      "options": [
+        "Jamón and paella",
+        "Jamón and arroz",
+        "Frijoles and paella",
+        "Chorizo and paella"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Delicious answer! Correct.",
+        "Right! Ham and rice, any way you say it."
+      ],
+      "lose": [
+        "Jamón (ham) and paella (rice dish)! Whether Spanish or Provençal, Jambalaya is always delicious."
+      ]
+    },
+    {
+      "id": "ms2026_m44",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Movies & TV",
+      "difficulty": 2,
+      "question": "The 2009 film The War of the Roses, starring Michael Douglas and Kathleen Turner as a divorcing couple, takes its name from the battles between which two royal houses?",
+      "answer": "Lancaster and York",
+      "options": [
+        "Lancaster and York",
+        "Tudor and Stuart",
+        "Plantagenet and Tudor",
+        "York and Plantagenet"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Historically and cinematically correct! One point.",
+        "Right! Roses, divorce, the lot."
+      ],
+      "lose": [
+        "Lancaster and York! The rival cadet branches of the House of Plantagenet. Very English squabble."
+      ]
+    },
+    {
+      "id": "ms2026_m45",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Food & Drink",
+      "difficulty": 2,
+      "question": "Wagyu cattle — whose beef is renowned worldwide — come in four breeds. What does 'Wagyu' literally mean in Japanese?",
+      "answer": "Japanese cattle",
+      "options": [
+        "Fat cattle",
+        "Japanese cattle",
+        "Sacred cattle",
+        "Kobe cattle"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Well marbled — and well answered! Correct.",
+        "Right! Wa = Japan, gyu = cattle. Simple as that."
+      ],
+      "lose": [
+        "Japanese cattle! 'Wa' means Japan, 'gyu' means cattle. The most expensive beef in the world."
+      ]
+    },
+    {
+      "id": "mq2025_h01",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "History",
+      "difficulty": 3,
+      "question": "Milindapanha is a 2nd-century dialogue on Buddhist doctrine between a senior monk and an Indo-Greek king. By what other name is King Milinda known to historians?",
+      "answer": "Menander I",
+      "options": [
+        "Antiochos I",
+        "Menander I",
+        "Demetrios I",
+        "Apollodoros"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Dharma and glory! Correct.",
+        "Right! Ancient Greek meets ancient Buddhism."
+      ],
+      "lose": [
+        "Menander I! The Indo-Greek king of Bactria whose questions on Buddhism became a classic text."
+      ]
+    },
+    {
+      "id": "mq2025_h02",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "E.L. Doctorow's 1975 novel featuring Harry Houdini, Henry Ford and JP Morgan as characters — later adapted into a Broadway musical — shares its title with which genre of music?",
+      "answer": "Ragtime",
+      "options": [
+        "Ragtime",
+        "Jazz",
+        "Blues",
+        "Vaudeville"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Syncopated and correct! One point.",
+        "Right! Scott Joplin's ghost approves."
+      ],
+      "lose": [
+        "Ragtime! The 1981 film starred James Cagney, who came out of retirement for it. One of those pub facts."
+      ]
+    },
+    {
+      "id": "mq2025_h03",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "History",
+      "difficulty": 3,
+      "question": "Which is the only year of the 20th century in which three future US presidents were born, all still alive at time of writing? Adding 100 to this year gives the title of a Wong Kar-wai film.",
+      "answer": "1946",
+      "options": [
+        "1924",
+        "1946",
+        "1961",
+        "1917"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Historically precise! Correct.",
+        "Right! Trump, Clinton, and Bush Sr. all born in 1946."
+      ],
+      "lose": [
+        "1946! Trump, Clinton, and Bush Sr. Adding 100 gives '2046', the Wong Kar-wai film. Clever question."
+      ]
+    },
+    {
+      "id": "mq2024_h04",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "History",
+      "difficulty": 3,
+      "question": "The Battle of Sekigahara (1600) and the Boshin War (1868–69) bookended the rule of which powerful institution in Japanese history?",
+      "answer": "Tokugawa Shogunate",
+      "options": [
+        "Ashikaga Shogunate",
+        "Tokugawa Shogunate",
+        "Kamakura Shogunate",
+        "Muromachi Shogunate"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Shogun-level knowledge! Correct.",
+        "Right! 268 years of Tokugawa rule. Not bad."
+      ],
+      "lose": [
+        "Tokugawa Shogunate! Also called the Edo period. Ended when Emperor Meiji was restored to power."
+      ]
+    },
+    {
+      "id": "mq2025_h05",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "Which element — named after a figure from Greek mythology as a warning about the nuclear arms race — is mainly obtained artificially from fission products of nuclear reactors?",
+      "answer": "Promethium",
+      "options": [
+        "Neptunium",
+        "Promethium",
+        "Plutonium",
+        "Tantalum"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Elemental! Correct.",
+        "Right! Named after the fire-stealer. Quite the metaphor."
+      ],
+      "lose": [
+        "Promethium! Prometheus stole fire from the gods; Promethium comes from the fire of nuclear fission."
+      ]
+    },
+    {
+      "id": "mq2024_h06",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "The Bakhshali Manuscript — discovered near Peshawar in 1881 and predating a 9th-century Gwalior inscription — is considered one of the earliest examples of which mathematical symbol?",
+      "answer": "Zero",
+      "options": [
+        "Infinity",
+        "Zero",
+        "Pi",
+        "The decimal point"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The value of this answer is not zero — it's correct!",
+        "Right! The dot that changed the world."
+      ],
+      "lose": [
+        "Zero! The Bakhshali Manuscript uses a dot as a placeholder zero. Dating to around 300 CE."
+      ]
+    },
+    {
+      "id": "mq2025_h07",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "India",
+      "difficulty": 3,
+      "question": "The first time the National Film Award for Best Direction was shared, it went to B.V. Karanth and Girish Karnad for their 1971 Kannada film 'Vamsha Vruksha'. Which Kannada author's novel was it based on?",
+      "answer": "S L Bhyrappa",
+      "options": [
+        "S L Bhyrappa",
+        "Kuvempu",
+        "Masti Venkatesha Iyengar",
+        "U R Ananthamurthy"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The QM tips a hat to Kannada literature.",
+        "Right!"
+      ],
+      "lose": [
+        "S L Bhyrappa! One of the most celebrated Kannada novelists. Vamsha Vruksha means 'family tree'."
+      ]
+    },
+    {
+      "id": "mq2025_h08",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "General Knowledge",
+      "difficulty": 3,
+      "question": "The 'Henokiens' is an association of companies at least 200 years old, where 50%+ shares are held by founder's descendants. Its name is taken from a biblical patriarch. Its oldest member — the Japanese hotel Hōshi ryokan — was founded in which century?",
+      "answer": "8th century (717 AD)",
+      "options": [
+        "6th century (500s AD)",
+        "8th century (717 AD)",
+        "10th century (900s AD)",
+        "12th century (1100s AD)"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Ancient and correct! One point.",
+        "Right! A hotel running since 717 AD. Imagine the TripAdvisor reviews."
+      ],
+      "lose": [
+        "8th century — 717 AD! Hōshi ryokan has been running for over 1,300 years. The oldest hotel in the world."
+      ]
+    },
+    {
+      "id": "mq2024_h09",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "Which 11-letter word did George Bernard Shaw coin after Anthony Comstock objected to his play 'Mrs. Warren's Profession', meaning 'excessive censorship based on perceived immorality'?",
+      "answer": "Comstockery",
+      "options": [
+        "Bowdlerism",
+        "Comstockery",
+        "Puritanism",
+        "Grundyism"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Shaw would be pleased! Correct.",
+        "Right! Comstockery — the word that bit back."
+      ],
+      "lose": [
+        "Comstockery! Shaw called Comstock an 'Irish smut peddler' right back. The feud was spectacular."
+      ]
+    },
+    {
+      "id": "mq2025_h10",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Current Affairs",
+      "difficulty": 3,
+      "question": "Daphne Caruana Galizia, killed by a car bomb in 2017 after publishing allegations linking the PM to the Panama Papers, was a journalist in which European island country?",
+      "answer": "Malta",
+      "options": [
+        "Cyprus",
+        "Malta",
+        "Sardinia",
+        "Crete"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct and important — one point.",
+        "Right! A dark chapter in European press freedom."
+      ],
+      "lose": [
+        "Malta! Her assassination prompted street protests and eventually brought down the government."
+      ]
+    },
+    {
+      "id": "mq2025_h11",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "India",
+      "difficulty": 3,
+      "question": "Which feminist film collective — formed in 1980 and sharing its name with a communist Marathi-language publication — produced acclaimed documentaries 'Molkarin' and 'Sudesha'?",
+      "answer": "Yugantar",
+      "options": [
+        "Eklavya",
+        "Yugantar",
+        "Saheli",
+        "Jagori"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Yugantar! Correct — a new era of correct answers!",
+        "Right!"
+      ],
+      "lose": [
+        "Yugantar! Founded by Deepa Dhanraj and others. Pioneering feminist documentary filmmaking in India."
+      ]
+    },
+    {
+      "id": "mq2025_h12",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Sport",
+      "difficulty": 3,
+      "question": "Which South African city — previously called Verwoerdburg — had its name changed by residents in 1995 after the local cricket ground (now SuperSport Park)?",
+      "answer": "Centurion",
+      "options": [
+        "Soweto",
+        "Polokwane",
+        "Centurion",
+        "Midrand"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Centurion! 100 runs — and a correct answer. Well played.",
+        "Right!"
+      ],
+      "lose": [
+        "Centurion! Named after the cricket ground. A city renamed after a sports venue — only in South Africa."
+      ]
+    },
+    {
+      "id": "mq2024_h13",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "History",
+      "difficulty": 3,
+      "question": "Who nominated Buddhist monk Thich Nhat Hanh for the Nobel Peace Prize in 1967? Hanh went on to found the largest monastery in southern France.",
+      "answer": "Martin Luther King Jr.",
+      "options": [
+        "Desmond Tutu",
+        "Martin Luther King Jr.",
+        "The Dalai Lama",
+        "Pope Paul VI"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Peacefully correct! One point.",
+        "Right! Two great peace advocates of the 20th century."
+      ],
+      "lose": [
+        "Martin Luther King Jr.! He wrote that Thich Nhat Hanh's ideas were 'ones which the world needs'."
+      ]
+    },
+    {
+      "id": "mq2024_h14",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "Which physicist — who paradoxically dismissed both the existence of atoms and relativity (a theory he inspired) — has a dimensionless number in aeronautics named after him?",
+      "answer": "Ernst Mach",
+      "options": [
+        "Ernst Mach",
+        "Ludwig Boltzmann",
+        "Hendrik Lorentz",
+        "Henri Poincaré"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Breaking the sound barrier of knowledge! Correct.",
+        "Right! Mach 1 of correct answers."
+      ],
+      "lose": [
+        "Ernst Mach! He inspired Einstein but rejected relativity. And dismissed atoms. Brilliant, contradictory man."
+      ]
+    },
+    {
+      "id": "ms2026_h15",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "The chant known as the 'Litany Against Fear' in Frank Herbert's 'Dune' was partly inspired by which Shakespeare play, where Julius Caesar says 'The valiant never taste of death but once'?",
+      "answer": "Julius Caesar",
+      "options": [
+        "Hamlet",
+        "Julius Caesar",
+        "Macbeth",
+        "Henry V"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Fear is the mind-killer — but not you! Correct.",
+        "Right! The spice must flow."
+      ],
+      "lose": [
+        "Julius Caesar! Herbert was inspired by Caesar's courage speech. The Litany Against Fear resulted."
+      ]
+    },
+    {
+      "id": "ms2026_h16",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "Which 16th-century Spanish mystic and religious reformer inspired both George Eliot's character Dorothea Brooke in 'Middlemarch' and Hardy's characterisation of Tess?",
+      "answer": "St Teresa of Ávila",
+      "options": [
+        "St Clare of Assisi",
+        "St Teresa of Ávila",
+        "St Catherine of Siena",
+        "St Hildegard of Bingen"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Saintly answer! Correct.",
+        "Right! St Teresa — mystic, reformer, literary muse."
+      ],
+      "lose": [
+        "St Teresa of Ávila! George Eliot opens Middlemarch with a Prelude comparing Dorothea to her."
+      ]
+    },
+    {
+      "id": "mq2025_h17",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "India",
+      "difficulty": 3,
+      "question": "Which Carnatic raga — the 71st in the Melakarta system — shares its name with one of the 16 Mahajanapadas of ancient India, and is the subject of a famous composition by M. Balamuralikrishna?",
+      "answer": "Kosala",
+      "options": [
+        "Gandhara",
+        "Magadha",
+        "Kosala",
+        "Vatsa"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Raga-right answer! Correct.",
+        "Right! Kosala — the kingdom of Rama, and a beautiful raga."
+      ],
+      "lose": [
+        "Kosala! The ancient kingdom is now in Uttar Pradesh. The raga shares its name. Beautiful piece."
+      ]
+    },
+    {
+      "id": "mq2025_h18",
+      "source": "mahaquizzer_2025",
+      "year": 2025,
+      "category": "Arts",
+      "difficulty": 3,
+      "question": "Which American Minimalist artist, who coined the term 'specific objects' in a 1964 essay defining the movement, used industrial materials and geometric repetition in his work?",
+      "answer": "Donald Judd",
+      "options": [
+        "Carl Andre",
+        "Donald Judd",
+        "Sol LeWitt",
+        "Dan Flavin"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Specifically correct! One point.",
+        "Right! Judd's stacks and boxes — iconic Minimalism."
+      ],
+      "lose": [
+        "Donald Judd! His essay 'Specific Objects' launched Minimalism as a named movement."
+      ]
+    },
+    {
+      "id": "mq2024_h19",
+      "source": "mahaquizzer_2024",
+      "year": 2024,
+      "category": "India",
+      "difficulty": 3,
+      "question": "The Baluchari sarees that received a GI tag are produced solely in Bishnupur district and named after a village on the sandy banks of which West Bengal river?",
+      "answer": "Bhagirathi",
+      "options": [
+        "Ganges (main channel)",
+        "Bhagirathi",
+        "Damodar",
+        "Rupnarayan"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Woven correctly into the winner's circle! One point.",
+        "Right!"
+      ],
+      "lose": [
+        "Bhagirathi! The river that flows through Murshidabad, where Baluchari weaving traditions are centuries old."
+      ]
+    },
+    {
+      "id": "ms2026_h20",
+      "source": "mindsweep_2026",
+      "year": 2026,
+      "category": "Movies & TV",
+      "difficulty": 3,
+      "question": "In the screenplay for 'Pulp Fiction', Tarantino's instructions say the actors in the diner opening should read dialogue in the style of which 1940 Cary Grant film — one of his favourites?",
+      "answer": "His Girl Friday",
+      "options": [
+        "Bringing Up Baby",
+        "His Girl Friday",
+        "The Philadelphia Story",
+        "Arsenic and Old Lace"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Fast-talking and correct! One point.",
+        "Right! His Girl Friday — the fastest-talking film ever made."
+      ],
+      "lose": [
+        "His Girl Friday! Directed by Howard Hawks, it features dialogue at a record-breaking pace. Tarantino loves it."
+      ]
+    }
+  ]
+}
