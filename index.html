@@ -837,7 +837,8 @@ async function saveScore() {
     await fetch(GOOGLE_SHEET_URL, {
       method: "POST",
       mode: "no-cors",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "text/plain" },
+      //headers: { "Content-Type": "application/json" },
       body: JSON.stringify(record),
     });
     status.className = "save-status ok";
