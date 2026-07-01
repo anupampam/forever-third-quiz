@@ -843,7 +843,6 @@ async function saveScore() {
   date: record.date
 });
 new Image().src = `${GOOGLE_SHEET_URL}?${params}`;
-});
     status.className = "save-status ok";
     status.textContent = "✓ Score saved to the leaderboard! 🍺";
   } catch (e) {
