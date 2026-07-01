@@ -2299,6 +2299,3801 @@
       "lose": [
         "His Girl Friday! Directed by Howard Hawks, it features dialogue at a record-breaking pace. Tarantino loves it."
       ]
+    },
+    {
+      "id": "mq2023_e01",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Business",
+      "difficulty": 1,
+      "question": "In 2004, entrepreneur Robert Kalin named his online marketplace after an Italian phrase meaning 'oh yes' that he heard while watching Fellini's 8½. Which marketplace?",
+      "answer": "Etsy",
+      "options": [
+        "Etsy",
+        "eBay",
+        "Depop",
+        "Folksy"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Etsy. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e02",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 1,
+      "question": "The Arab Spring began when a fruit-seller's self-immolation in Sidi Bouzid sparked a revolution. Which country is called the 'Cradle of Arab Spring'?",
+      "answer": "Tunisia",
+      "options": [
+        "Egypt",
+        "Libya",
+        "Tunisia",
+        "Morocco"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Tunisia. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e03",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Fashion",
+      "difficulty": 1,
+      "question": "What term, protected by the Chambre Syndicale in Paris, refers to the highest level of custom fashion from the great fashion houses?",
+      "answer": "Haute couture",
+      "options": [
+        "Prêt-à-porter",
+        "Haute couture",
+        "Avant-garde",
+        "Belle époque"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Haute couture. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e04",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "What word, meaning 'I will please' in Latin, is central to modern clinical trials and is given to participants who receive a dummy treatment?",
+      "answer": "Placebo",
+      "options": [
+        "Nocebo",
+        "Placebo",
+        "Panacea",
+        "Elixir"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Placebo. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e05",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Pop Culture",
+      "difficulty": 1,
+      "question": "Cambridge Dictionary's word of the year 2023 describes what an AI does when it produces confident but false information. What word?",
+      "answer": "Hallucinate",
+      "options": [
+        "Fabricate",
+        "Hallucinate",
+        "Confabulate",
+        "Invent"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Hallucinate. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e06",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "Which rapper became the first woman rapper inducted into the Rock and Roll Hall of Fame?",
+      "answer": "Missy Elliott",
+      "options": [
+        "Cardi B",
+        "Nicki Minaj",
+        "Missy Elliott",
+        "Lauryn Hill"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Spot on! Your round, then!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Missy Elliott. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e07",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Nature",
+      "difficulty": 1,
+      "question": "According to the Old Farmer's Almanac, what name do some Native American tribes give to the full moon of May?",
+      "answer": "Flower Moon",
+      "options": [
+        "Harvest Moon",
+        "Snow Moon",
+        "Flower Moon",
+        "Thunder Moon"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Flower Moon. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e08",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Pop Culture",
+      "difficulty": 1,
+      "question": "John Oliver's international campaign led which New Zealand 'puking bird' to win the Bird of the Century poll with 10x the votes of the kiwi?",
+      "answer": "Puteketeke",
+      "options": [
+        "Kākāpō",
+        "Puteketeke",
+        "Tūī",
+        "Hoiho"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Puteketeke. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e09",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Pop Culture",
+      "difficulty": 1,
+      "question": "What portmanteau describes the act of pretending to hold progressive political views to attract dates on online dating apps?",
+      "answer": "Wokefishing",
+      "options": [
+        "Catfishing",
+        "Ghosting",
+        "Wokefishing",
+        "Breadcrumbing"
+      ],
+      "correctOption": 2,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Wokefishing. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e10",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 1,
+      "question": "Which iconic London address was originally yellow but is now painted black since the 1960s to mimic the effect of pollution?",
+      "answer": "10 Downing Street",
+      "options": [
+        "Buckingham Palace",
+        "10 Downing Street",
+        "The Reform Club",
+        "Lancaster House"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's 10 Downing Street. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e11",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Politics",
+      "difficulty": 1,
+      "question": "Who is the only UK Prime Minister to hold a PhD degree? His thesis was titled 'The Labour Party and Political Change in Scotland, 1918–1929'.",
+      "answer": "Gordon Brown",
+      "options": [
+        "Tony Blair",
+        "Gordon Brown",
+        "Theresa May",
+        "David Cameron"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Gordon Brown. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e12",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Fun Facts",
+      "difficulty": 1,
+      "question": "A young girl in Rhode Island wrote to police requesting a DNA test on a partially eaten cookie and carrot to prove whose existence?",
+      "answer": "Santa Claus",
+      "options": [
+        "The Tooth Fairy",
+        "Easter Bunny",
+        "Santa Claus",
+        "The Leprechaun"
+      ],
+      "correctOption": 2,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Santa Claus. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e13",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Art",
+      "difficulty": 1,
+      "question": "Which Swiss city's name can be prefixed to annual art fairs held at Hong Kong, Miami Beach, and Paris?",
+      "answer": "Basel",
+      "options": [
+        "Geneva",
+        "Zurich",
+        "Basel",
+        "Lucerne"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Basel. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e14",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 1,
+      "question": "What is the name of the stone coffin often seen above ground, adorned with sculptures or paintings? It comes from Greek meaning 'flesh-eating'.",
+      "answer": "Sarcophagus",
+      "options": [
+        "Ossuary",
+        "Catafalque",
+        "Sarcophagus",
+        "Cenotaph"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Sarcophagus. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e15",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "According to a 2021 study, what physical feature is unique to each dog — similar to a human fingerprint — and is used by some kennel clubs to register dogs?",
+      "answer": "Nose print",
+      "options": [
+        "Paw print",
+        "Ear shape",
+        "Nose print",
+        "Eye colour"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Spot on! Your round, then!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Nose print. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e16",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Business",
+      "difficulty": 1,
+      "question": "After noticing his sister mixing vaseline and coal dust to darken her eyelashes, pharmacist Thomas Williams created which cosmetics brand, now owned by L'Oréal?",
+      "answer": "Maybelline",
+      "options": [
+        "Revlon",
+        "Maybelline",
+        "Cover Girl",
+        "Max Factor"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Maybelline. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e17",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Pop Culture",
+      "difficulty": 1,
+      "question": "The first video game character balloon at Macy's Thanksgiving Day Parade (1993) featured which spiny gaming icon?",
+      "answer": "Sonic the Hedgehog",
+      "options": [
+        "Mario",
+        "Pikachu",
+        "Sonic the Hedgehog",
+        "Pac-Man"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Spot on! Your round, then!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Sonic the Hedgehog. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e18",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "In baseball, what term describes a home run hit with players on all three bases, scoring four runs — the same term used for major titles in tennis and golf?",
+      "answer": "Grand Slam",
+      "options": [
+        "Home Run",
+        "Perfect Game",
+        "Grand Slam",
+        "Power Play"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Grand Slam. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e19",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "Which Canadian dish, believed to get its name from Quebec slang for 'a mess', was born when a customer asked for cheese curds and chips in a paper bag?",
+      "answer": "Poutine",
+      "options": [
+        "Smoked Meat",
+        "Poutine",
+        "Tourtière",
+        "Beaver Tail"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Poutine. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_e20",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "Which bird's spongy skull bones and long tongue bone — wrapped around its brain — have inspired the design of aircraft black boxes and football helmets?",
+      "answer": "Woodpecker",
+      "options": [
+        "Hornbill",
+        "Toucan",
+        "Woodpecker",
+        "Kingfisher"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Woodpecker. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m01",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Culture",
+      "difficulty": 2,
+      "question": "What type of embroidery, literally meaning 'flower work' and originating in undivided Punjab, uses a darning stitch on cotton cloth with colourful silk threads?",
+      "answer": "Phulkari",
+      "options": [
+        "Chikankari",
+        "Phulkari",
+        "Kantha",
+        "Zardozi"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Phulkari. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m02",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 2,
+      "question": "In 1899, Elizabeth Bisland lost a famous race around the world by four days. Who had she been trying to beat?",
+      "answer": "Nellie Bly",
+      "options": [
+        "Amelia Earhart",
+        "Nellie Bly",
+        "Annie Londonderry",
+        "Gertrude Bell"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Nellie Bly. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m03",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 2,
+      "question": "Which country changed the names of its cities from Novo Redondo, Novo Lisboa, and Silva Porto after gaining independence in 1975?",
+      "answer": "Angola",
+      "options": [
+        "Mozambique",
+        "Angola",
+        "Zimbabwe",
+        "Namibia"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Angola. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m04",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 2,
+      "question": "Which US Navy ship, sunk by Japanese torpedoes after delivering atomic bomb components, is famously recalled in the shark monologue in the film Jaws?",
+      "answer": "USS Indianapolis",
+      "options": [
+        "USS Missouri",
+        "USS Indianapolis",
+        "USS Arizona",
+        "USS Nevada"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's USS Indianapolis. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m05",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "Elizabeth Best, Joyce Meadowcroft, Ibrahim Arif, and Ron Ritchie are the members of which fictional group in a bestselling quartet by Richard Osman?",
+      "answer": "The Thursday Murder Club",
+      "options": [
+        "The Tuesday Night Club",
+        "The Thursday Murder Club",
+        "The Wednesday Detectives",
+        "The Agatha Five"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's The Thursday Murder Club. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m06",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 2,
+      "question": "Which London street is believed to take its name from a cut-work lace collar fashionable in the late 16th and early 17th century, seen in official portraits of royals?",
+      "answer": "Piccadilly",
+      "options": [
+        "Mayfair",
+        "Soho",
+        "Piccadilly",
+        "Kensington"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Right you are! Pint incoming.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Piccadilly. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m07",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Media",
+      "difficulty": 2,
+      "question": "What series of intimate performances was started in 2008 by NPR's Bob Boilen and Stephen Thompson after they couldn't hear music over the crowd at South by Southwest?",
+      "answer": "Tiny Desk Concerts",
+      "options": [
+        "MTV Unplugged",
+        "Tiny Desk Concerts",
+        "Live from Here",
+        "Sessions at West 54th"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Tiny Desk Concerts. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m08",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "Which Pakistani javelin thrower became the first Pakistani to win a medal at the World Athletics Championships with an 87.82m throw in Budapest 2023?",
+      "answer": "Arshad Nadeem",
+      "options": [
+        "Naeem Shah",
+        "Arshad Nadeem",
+        "Rizwan Ahmed",
+        "Imran Butt"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Arshad Nadeem. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m09",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Technology",
+      "difficulty": 2,
+      "question": "Which four-letter word from science fiction, meaning 'to understand profoundly and intuitively', is also the name of X's (formerly Twitter's) AI chatbot?",
+      "answer": "Grok",
+      "options": [
+        "Flux",
+        "Grok",
+        "Synth",
+        "Zoid"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Grok. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m10",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "Margaret Court's defeat to which player in May 1973 was 'avenged' by Billie Jean King in the famous 'Battle of the Sexes' in September that year?",
+      "answer": "Bobby Riggs",
+      "options": [
+        "John McEnroe",
+        "Jimmy Connors",
+        "Bobby Riggs",
+        "Rod Laver"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Bobby Riggs. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m11",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Pop Culture",
+      "difficulty": 2,
+      "question": "What two-word name connects Alicia Keys's 2023 autobiographical musical, a British culinary reality show, and a Manhattan neighbourhood home to the Actors Studio?",
+      "answer": "Hell's Kitchen",
+      "options": [
+        "Times Square",
+        "Hell's Kitchen",
+        "Little Italy",
+        "Midtown West"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Hell's Kitchen. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m12",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Technology",
+      "difficulty": 2,
+      "question": "The International Telecommunication Union has added only one new symbol to the official Morse code character set in the 21st century. Which symbol?",
+      "answer": "@",
+      "options": [
+        "!",
+        "?",
+        "#",
+        "@"
+      ],
+      "correctOption": 3,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's @. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m13",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "India",
+      "difficulty": 2,
+      "question": "What two-word term did C. Rajagopalachari coin to deride strict government control of the Indian economy, modelled on a phrase for colonial rule?",
+      "answer": "Licence Raj",
+      "options": [
+        "Inspector Raj",
+        "Licence Raj",
+        "Quota Raj",
+        "Control Raj"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Licence Raj. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m14",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "Carl Linnaeus 'reversed' what eponymous measurement scale after its Swedish inventor died in 1744, so that water now freezes at 0° rather than 100°?",
+      "answer": "Celsius scale",
+      "options": [
+        "Fahrenheit scale",
+        "Celsius scale",
+        "Kelvin scale",
+        "Rankine scale"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Celsius scale. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m15",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Technology",
+      "difficulty": 2,
+      "question": "Auto-correction in which software caused wrong gene names to appear in nearly a third of scientific papers, forcing the renaming of 27 genes? The maker fixed it in October 2023.",
+      "answer": "MS Excel",
+      "options": [
+        "MS Word",
+        "Google Sheets",
+        "MS Excel",
+        "LibreOffice Calc"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Spot on! Your round, then!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's MS Excel. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m16",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Language",
+      "difficulty": 2,
+      "question": "What generic name for a cheap or illicit alcoholic drink derives from a corruption of 'Xootsnoowú', the Tlingit name for an island in Alaska?",
+      "answer": "Hooch",
+      "options": [
+        "Moonshine",
+        "Rotgut",
+        "Hooch",
+        "Firewater"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Hooch. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m17",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "TV",
+      "difficulty": 2,
+      "question": "The commissioner of which hugely popular British sitcom — featuring blatant racial stereotypes — later regretted that it was ever broadcast? It had a successful Indian remake in the 1990s.",
+      "answer": "Mind Your Language",
+      "options": [
+        "It Ain't Half Hot Mum",
+        "Mind Your Language",
+        "Goodness Gracious Me",
+        "Love Thy Neighbour"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Mind Your Language. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m18",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "'Louisa, you can't write,' a publisher told this author in 1861 and offered her $40 to start a school instead. Nine years later she repaid it after the success of which novel?",
+      "answer": "Little Women",
+      "options": [
+        "Little Women",
+        "Jane Eyre",
+        "Rebecca",
+        "The Scarlet Letter"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Little Women. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m19",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 2,
+      "question": "Operation ______ was the codename for Kissinger's covert carpet-bombing of Cambodia (1969-70), with targets named Breakfast, Lunch, Dinner, Snack, Dessert, and Supper. Fill the blank.",
+      "answer": "Menu",
+      "options": [
+        "Banquet",
+        "Menu",
+        "Feast",
+        "Pantry"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Menu. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_m20",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Economics",
+      "difficulty": 2,
+      "question": "What alliterative two-word term describes a sudden currency appreciation following a valuable resource discovery that harms the overall economy? It was coined after the 1959 Groningen gas discovery.",
+      "answer": "Dutch Disease",
+      "options": [
+        "Resource Curse",
+        "Dutch Disease",
+        "Commodity Boom",
+        "Petro Paradox"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Dutch Disease. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h01",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Art",
+      "difficulty": 3,
+      "question": "Remo Camerota's 2010 book about Japanese urban art using manhole covers as canvases is titled what — one letter away from the title of a 1996 Irvine Welsh film adaptation?",
+      "answer": "Drainspotting",
+      "options": [
+        "Drainspotting",
+        "Trainspotting",
+        "Manhole Art",
+        "Spotting Tokyo"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Drainspotting. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h02",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Art",
+      "difficulty": 3,
+      "question": "Curated by William Dalrymple, the 'Forgotten Masters' exhibition at the Wallace Collection featured which group of Indian painters, known for portraying local scenes in European style for colonial patrons?",
+      "answer": "Company School",
+      "options": [
+        "Mughal School",
+        "Company School",
+        "Rajput School",
+        "Bengal School"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Company School. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h03",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 3,
+      "question": "Which Roman statesman claimed in 75 BCE to have rediscovered Archimedes' lost tomb in Sicily, writing about it in his Tusculan Disputations?",
+      "answer": "Cicero",
+      "options": [
+        "Julius Caesar",
+        "Cicero",
+        "Cato the Elder",
+        "Pompey"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Cicero. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h04",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "Named after its supposed resemblance to a culinary herb, which lymphoid organ situated in front of the heart was long considered vestigial until its immune role was discovered in the 1960s?",
+      "answer": "Thymus",
+      "options": [
+        "Spleen",
+        "Thymus",
+        "Appendix",
+        "Tonsil"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Thymus. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h05",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 3,
+      "question": "Whose disciples, known as the Acousmatics, spent years listening to lessons from behind a curtain, never allowed to see the teacher in case his physical presence distracted from the message?",
+      "answer": "Pythagoras",
+      "options": [
+        "Plato",
+        "Socrates",
+        "Pythagoras",
+        "Aristotle"
+      ],
+      "correctOption": 2,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Pythagoras. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h06",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 3,
+      "question": "Which German city's famous 17th-century experiment demonstrated the power of atmospheric pressure, and also contains the tomb of Holy Roman Emperor Otto I?",
+      "answer": "Magdeburg",
+      "options": [
+        "Nuremberg",
+        "Dresden",
+        "Magdeburg",
+        "Heidelberg"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Spot on! Your round, then!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Magdeburg. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h07",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 3,
+      "question": "What term, derived from a European nation's Cold War neutrality, describes a smaller country's foreign policy being compromised while retaining domestic independence under a powerful neighbour's shadow?",
+      "answer": "Finlandisation",
+      "options": [
+        "Balkanisation",
+        "Finlandisation",
+        "Helvetisation",
+        "Austrianisation"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Finlandisation. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h08",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 3,
+      "question": "By what epithet is the Polish cavalry unit, famous for lifting the 1683 Siege of Vienna, known — named after the large raptor feathers fastened to their armour or saddles?",
+      "answer": "Winged Hussars",
+      "options": [
+        "Iron Lancers",
+        "Winged Hussars",
+        "Black Knights",
+        "Feathered Guard"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Winged Hussars. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h09",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "The 1962 US nuclear test Starfish Prime created artificial radiation belts that caused the failure of which satellite — the first transatlantic live television relay satellite?",
+      "answer": "Telstar 1",
+      "options": [
+        "Sputnik 1",
+        "Telstar 1",
+        "Explorer 1",
+        "Echo 1"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Telstar 1. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "mq2023_h10",
+      "source": "mahaquizzer_2023",
+      "year": 2023,
+      "category": "History",
+      "difficulty": 3,
+      "question": "By what collective name were the County of Edessa, Principality of Antioch, County of Tripoli, and Kingdom of Jerusalem known — formed by participants of a late 11th-century military campaign?",
+      "answer": "Crusader States",
+      "options": [
+        "Byzantine Provinces",
+        "Crusader States",
+        "Latin Empire",
+        "Frankish Kingdoms"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Crusader States. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e01",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "Francesco and Omobono followed in their illustrious father's footsteps after his death in 1743. What surname, meaning 'toll-collector' in Italian, did they share?",
+      "answer": "Stradivarius",
+      "options": [
+        "Stradivarius",
+        "Stradella",
+        "Amati",
+        "Guarneri"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Stradivarius. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e02",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "Which Baroque composer, nicknamed 'il Prete Rosso' (the Red Priest) for his crop of curly red hair, wrote more than 500 concertos including a famous set of four representing the seasons?",
+      "answer": "Antonio Vivaldi",
+      "options": [
+        "Antonio Vivaldi",
+        "Georg Handel",
+        "Johann Bach",
+        "Arcangelo Corelli"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Antonio Vivaldi. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e03",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "On the Carol Burnett Show in 1976, a famous pop group introduced themselves as: 'The Oldest, the Swingingest, the Dancingest, the Skinniest, and the Cutest.' Which group?",
+      "answer": "Jackson 5",
+      "options": [
+        "The Osmonds",
+        "Jackson 5",
+        "The Temptations",
+        "Bee Gees"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Jackson 5. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e04",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "What medication, made from powdered zinc oxide and ferric oxide, gets its name from the historic name for an ore of zinc and is used to treat mild itching and skin conditions?",
+      "answer": "Calamine lotion",
+      "options": [
+        "Zinc oxide cream",
+        "Calamine lotion",
+        "Hydrocortisone",
+        "Emollient"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Calamine lotion. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e05",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "Valonia ventricosa, also called 'bubble algae', holds what record in the living world?",
+      "answer": "Largest single-cell organism",
+      "options": [
+        "Largest single-cell organism",
+        "Fastest-reproducing alga",
+        "Most toxic marine plant",
+        "Deepest-dwelling algae"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Largest single-cell organism. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e06",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Social Sciences",
+      "difficulty": 1,
+      "question": "What five-letter acronym describes opposition by local residents to nearby development, with the connotation that they'd accept it if it were built somewhere else?",
+      "answer": "NIMBY",
+      "options": [
+        "NIMBY",
+        "YIMBY",
+        "BANANA",
+        "LULU"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's NIMBY. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e07",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Social Sciences",
+      "difficulty": 1,
+      "question": "Coined by Masahiro Mori, what rhyming two-word phrase describes the dip in human comfort when robots look almost — but not quite — human?",
+      "answer": "Uncanny Valley",
+      "options": [
+        "Creepy Canyon",
+        "Uncanny Valley",
+        "Eerie Abyss",
+        "Weird Hollow"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Uncanny Valley. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e08",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "From a Venetian dialect word meaning 'contest', what seven-letter word serves as an umbrella term for a set of races — also used for the annual Harvard-Yale boat race?",
+      "answer": "Regatta",
+      "options": [
+        "Regatta",
+        "Regalia",
+        "Regency",
+        "Riviera"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Regatta. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e09",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "According to the Oxford English Dictionary, what children's game gets its name from two words — the latter used in the sense of 'an incised line or scratch'?",
+      "answer": "Hopscotch",
+      "options": [
+        "Marbles",
+        "Skipping",
+        "Hopscotch",
+        "Tag"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Hopscotch. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e10",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "What two-word phrase, popularised by Spanish football broadcaster Andrés Montes to describe Spain's precise passing style, literally evokes the sound of the ball being touched?",
+      "answer": "Tiki-taka",
+      "options": [
+        "Total Football",
+        "Tiki-taka",
+        "Catenaccio",
+        "Gegenpressing"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Tiki-taka. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e11",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "What sporting equipment is nicknamed 'Cheese' on account of its appearance?",
+      "answer": "Curling stones",
+      "options": [
+        "Bocce balls",
+        "Curling stones",
+        "Lawn bowls",
+        "Croquet balls"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Curling stones. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_e12",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "Phil Shaw, nicknamed 'Steam', invented what extreme sport in 1997 after wanting to go rock climbing but having household chores to do instead?",
+      "answer": "Extreme Ironing",
+      "options": [
+        "Extreme Knitting",
+        "Extreme Ironing",
+        "Adventure Cleaning",
+        "Radical Tidying"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Extreme Ironing. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m01",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "Duke Ellington was the first-ever winner of which prestigious award for music in 1965 — though the advisory board denied him the prize, and the jury famously refused to award it that year?",
+      "answer": "Pulitzer Prize",
+      "options": [
+        "Grammy Award",
+        "Pulitzer Prize",
+        "Mercury Prize",
+        "Ivor Novello Award"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Pulitzer Prize. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m02",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "The 1986 recording of 'Hum Dekhenge', originally titled 'The Face of Your Lord', was performed at the Alhamra Arts Council. Which Pakistani singer performed this iconic concert?",
+      "answer": "Iqbal Bano",
+      "options": [
+        "Noor Jehan",
+        "Iqbal Bano",
+        "Abida Parveen",
+        "Reshma"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Iqbal Bano. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m03",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "Which Pakistani band, considered the country's first successful pop band after Nazia and Zoheb, included Salman Ahmad before he left to form Junoon?",
+      "answer": "Vital Signs",
+      "options": [
+        "Junoon",
+        "Vital Signs",
+        "Fuzon",
+        "Strings"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Vital Signs. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m04",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "A sackbut is an early form of which modern instrument? The sackbut predates the name of its modern successor.",
+      "answer": "Trombone",
+      "options": [
+        "Trombone",
+        "French Horn",
+        "Tuba",
+        "Euphonium"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Trombone. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m05",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "Sahara, Yuma, Sonora, Mojave, and Gobi are venue names at which major music festival, where each venue represents a different genre?",
+      "answer": "Coachella",
+      "options": [
+        "Glastonbury",
+        "Coachella",
+        "Burning Man",
+        "Lollapalooza"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Coachella. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m06",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "Vaishali Rameshbabu won the Women's Candidates Tournament 2026 to earn the right to challenge whom for the Women's World Chess Championship?",
+      "answer": "Ju Wenjun",
+      "options": [
+        "Hou Yifan",
+        "Ju Wenjun",
+        "Aleksandra Goryachkina",
+        "Lei Tingjie"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Ju Wenjun. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m07",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "Which city — the birthplace of Bollywood actors Rajendra Kumar and AK Hangal and poet Muhammad Iqbal — is home to Forward Sports, which has produced FIFA World Cup balls for Adidas since 2014?",
+      "answer": "Sialkot",
+      "options": [
+        "Lahore",
+        "Sialkot",
+        "Karachi",
+        "Faisalabad"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Sialkot. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m08",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "PCOS was recently rechristened to reflect its key impacts on insulin resistance and androgens. What is the new name it was given?",
+      "answer": "Polyendocrine Metabolic Ovarian Syndrome",
+      "options": [
+        "Polycystic Hormonal Syndrome",
+        "Polyendocrine Metabolic Ovarian Syndrome",
+        "Polyfollicular Ovarian Disorder",
+        "Polyandrogenic Ovarian Condition"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Polyendocrine Metabolic Ovarian Syndrome. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m09",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "World Space Week (4-10 October) commemorates two events within ten years of each other. One is the 1967 signing of the Outer Space Treaty. What is the other?",
+      "answer": "Launch of Sputnik 1",
+      "options": [
+        "First moon landing",
+        "Launch of Sputnik 1",
+        "First spacewalk",
+        "Launch of Hubble telescope"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Launch of Sputnik 1. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m10",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "When Germans used poison gas in WWI, Allied scientists discovered that burnt remnants of which common food item created a dense porous structure that trapped gas molecules — now a popular cosmetic ingredient?",
+      "answer": "Coconut shells",
+      "options": [
+        "Walnut shells",
+        "Coconut shells",
+        "Bamboo husks",
+        "Rice husks"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Coconut shells. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m11",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "The Hantavirus was named after the river near which the vector — a striped field mouse — was isolated in 1978 during a study of a haemorrhagic fever that killed UN troops in Korea. Which river?",
+      "answer": "Hantan River",
+      "options": [
+        "Han River",
+        "Hantan River",
+        "Imjin River",
+        "Naktong River"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Hantan River. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m12",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Social Sciences",
+      "difficulty": 2,
+      "question": "International relations theorist Graham Allison identified 16 historical instances where a rising power threatened a ruling one — 12 of 16 ended in conflict. What two-word phrase did he coin for this pattern?",
+      "answer": "Thucydides Trap",
+      "options": [
+        "Power Paradox",
+        "Thucydides Trap",
+        "Hegemony Dilemma",
+        "Peloponnesian Cycle"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Thucydides Trap. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m13",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Social Sciences",
+      "difficulty": 2,
+      "question": "A cave in the Altai Mountains of Siberia, named after an 18th-century hermit who lived there, gave its name to what discovery in paleoanthropology?",
+      "answer": "Denisovans",
+      "options": [
+        "Neanderthals",
+        "Denisovans",
+        "Homo naledi",
+        "Homo floresiensis"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Denisovans. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m14",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "This ancient Egyptian board game, meaning 'passing', consists of ten or more pawns on a 30-square board and is a homophone of a term for an assembly or council. Name the game.",
+      "answer": "Senet",
+      "options": [
+        "Mehen",
+        "Senet",
+        "Hounds and Jackals",
+        "Aseb"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Senet. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_m15",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "In 2026, Andhra Pradesh launched a conservation survey of the shimmery Peacock tarantula — also known as the Gooty sapphire tarantula — named after which American band from 1981?",
+      "answer": "Metallica",
+      "options": [
+        "Nirvana",
+        "Metallica",
+        "Slayer",
+        "Megadeth"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Metallica. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h01",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "History",
+      "difficulty": 3,
+      "question": "He was a member of the royal commission that declared Mesmer a fraud — alongside Lavoisier and Benjamin Franklin. He also later opposed capital punishment. Who gives his name to a famous execution device?",
+      "answer": "Dr. Louis Guillotine",
+      "options": [
+        "Dr. Louis Guillotine",
+        "Dr. Joseph Ignace",
+        "Baron Montesquieu",
+        "Dr. Pierre Guillotin"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Dr. Louis Guillotine. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h02",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Business",
+      "difficulty": 3,
+      "question": "Which tiny island made $132 million in a recent year — without building a single AI model — simply by owning a particular two-letter internet domain?",
+      "answer": "Anguilla",
+      "options": [
+        "Tuvalu",
+        "Anguilla",
+        "Niue",
+        "Tokelau"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Anguilla. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h03",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "Gabriel's Horn is a geometric figure with finite volume but infinite surface area. It is also known by an alliterative nickname referencing the scientist who proposed it and who is also associated with the barometer. Name that scientist.",
+      "answer": "Torricelli",
+      "options": [
+        "Pascal",
+        "Torricelli",
+        "Bernoulli",
+        "Cavalieri"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Torricelli. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h04",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "What word comes from the Latin 'to milk out', with the fat in milk being the classic example — a mixture where one substance is dispersed in another?",
+      "answer": "Emulsion",
+      "options": [
+        "Suspension",
+        "Emulsion",
+        "Colloid",
+        "Solution"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Emulsion. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h05",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Mythology",
+      "difficulty": 3,
+      "question": "In Hindu mythology, when two of King Dilipa's widows unite and one becomes pregnant, the deformed baby is eventually transformed by the sage Ashtavakra. Who is this child, famous for a great penance?",
+      "answer": "Bhagirath",
+      "options": [
+        "Bhagirath",
+        "Dhruva",
+        "Nachiketa",
+        "Prahlada"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Bhagirath. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h06",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Social Sciences",
+      "difficulty": 3,
+      "question": "What eight-letter lower-case word means a small repair patch in carpentry, a length of rope extension in nautical usage, and — when capitalised — is the male demonym of a European country?",
+      "answer": "dutchman",
+      "options": [
+        "dutchman",
+        "patchman",
+        "woodsman",
+        "deckhand"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's dutchman. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h07",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Social Sciences",
+      "difficulty": 3,
+      "question": "He 'attends' every University College London council meeting and is always recorded as 'present but not voting' — except when votes are tied, when he votes in favour due to his 'mischievous personality'. Who?",
+      "answer": "Jeremy Bentham",
+      "options": [
+        "Jeremy Bentham",
+        "John Stuart Mill",
+        "Francis Galton",
+        "Herbert Spencer"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Jeremy Bentham. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2026p2_h08",
+      "source": "mindsweep_2026_p2",
+      "year": 2026,
+      "category": "Sports",
+      "difficulty": 3,
+      "question": "Sabastian Sawe's 2026 London Marathon world record of 1:59:30 was almost a full hour less than the winner's time at the 1908 London Olympics — the first race run at the now-standard 42.195km. What is the current standard marathon distance?",
+      "answer": "42.195 km",
+      "options": [
+        "40 km",
+        "42.195 km",
+        "42.5 km",
+        "43 km"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's 42.195 km. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e01",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 1,
+      "question": "What Italian painting technique, meaning 'to evaporate' or 'smoke', blends tones so smoothly that no brush strokes are visible? Leonardo da Vinci is its most famous practitioner.",
+      "answer": "Sfumato",
+      "options": [
+        "Chiaroscuro",
+        "Sfumato",
+        "Impasto",
+        "Grisaille"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Sfumato. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e02",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "Which fish variety's name, combined with the word 'holy', forms a minced oath in English — partly because the fish was sold on Sundays to ensure consumption before it rotted?",
+      "answer": "Mackerel",
+      "options": [
+        "Herring",
+        "Mackerel",
+        "Haddock",
+        "Plaice"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Mackerel. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e03",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "In the UK, a flapjack is a baked oat bar. What is a flapjack in the United States?",
+      "answer": "Pancake",
+      "options": [
+        "Pancake",
+        "Cookie",
+        "Granola bar",
+        "Waffle"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Pancake. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e04",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "Which alcoholic beverage, one of the world's oldest, shares the root of its name with a Sanskrit word for 'honey'?",
+      "answer": "Mead",
+      "options": [
+        "Beer",
+        "Wine",
+        "Mead",
+        "Cider"
+      ],
+      "correctOption": 2,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Mead. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e05",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "Also nicknamed 'dead man's arm' and 'shirt sleeve pudding' because it was steamed in old shirt sleeves, what is the rhyme-y name of this British baked jam pudding?",
+      "answer": "Roly Poly",
+      "options": [
+        "Spotted Dick",
+        "Roly Poly",
+        "Bread and Butter",
+        "Treacle Tart"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Roly Poly. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e06",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "History",
+      "difficulty": 1,
+      "question": "What derogatory term did American sailors coin for British sailors because their ships carried citrus juice on board to prevent scurvy?",
+      "answer": "Limey",
+      "options": [
+        "Redcoat",
+        "Limey",
+        "Blighty",
+        "Sailor John"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Limey. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e07",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "Ukraine and Russia have famously disputed the origin of which vivid soup — made primarily from beetroot — that has just one vowel in its consonant-heavy name?",
+      "answer": "Borscht",
+      "options": [
+        "Kulesh",
+        "Borscht",
+        "Solyanka",
+        "Rassolnik"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Borscht. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e08",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "The viral FIX chocolate bar 'Can't Get ____ of It' references which Arab dessert made with filo pastry and pistachio, now widely known as 'Dubai chocolate'?",
+      "answer": "Knafeh",
+      "options": [
+        "Baklava",
+        "Knafeh",
+        "Halva",
+        "Luqaimat"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Knafeh. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e09",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "TV",
+      "difficulty": 1,
+      "question": "Taylor Sheridan originally wrote which TV series as a film, pitching it as 'The Godfather in Montana'?",
+      "answer": "Yellowstone",
+      "options": [
+        "Succession",
+        "Yellowstone",
+        "Outer Range",
+        "1883"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Yellowstone. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e10",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "TV",
+      "difficulty": 1,
+      "question": "Which fictional Saturday Night Live character's name became slang for a pessimistic person who brings bad news and dampens the mood of a gathering?",
+      "answer": "Debbie Downer",
+      "options": [
+        "Party Pooper",
+        "Debbie Downer",
+        "Buzz Killington",
+        "Negative Nancy"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Debbie Downer. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e11",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 1,
+      "question": "Sweden gives out an annual 5-million-krona prize for children's literature named after which beloved author — creator of Pippi Longstocking and Emil of Lönneberga?",
+      "answer": "Astrid Lindgren",
+      "options": [
+        "Tove Jansson",
+        "Astrid Lindgren",
+        "Roald Dahl",
+        "Hans Christian Andersen"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Astrid Lindgren. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e12",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 1,
+      "question": "The Kite-Eating Tree is one of the 12 recurring 'devices' the creator said gave which beloved comic strip its 'steadiness and universal appeal', alongside Schroeder's piano and a famous doghouse?",
+      "answer": "Peanuts",
+      "options": [
+        "Calvin and Hobbes",
+        "Peanuts",
+        "Garfield",
+        "Bloom County"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Peanuts. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e13",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 1,
+      "question": "Which 'multiple fruit' is Bangladesh's national fruit and gets its English name from the Malayalam word 'chakka'? Bangladesh is the world's second-largest producer after India.",
+      "answer": "Jackfruit",
+      "options": [
+        "Mango",
+        "Jackfruit",
+        "Lychee",
+        "Guava"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Jackfruit. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_e14",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Movies",
+      "difficulty": 1,
+      "question": "Ayo Edebiri is regularly described in media as an 'honorary Irishwoman' after joking in a Letterboxd interview about living in Ireland for four months to prepare for her role as which character?",
+      "answer": "Jenny the Donkey",
+      "options": [
+        "Jenny the Donkey",
+        "Siobhán the Sheep",
+        "Colm's friend",
+        "Pádraic's sister"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Jenny the Donkey. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m01",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 2,
+      "question": "Constance Fox Talbot is credited as the first woman to do what — an achievement she accomplished with a camera her husband William Henry Fox Talbot gave her?",
+      "answer": "Take a photograph",
+      "options": [
+        "Develop a photograph",
+        "Take a photograph",
+        "Win a photography award",
+        "Exhibit a photograph"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Take a photograph. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m02",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 2,
+      "question": "Which celebrity's image did Andy Warhol use most prolifically in his artwork — including a diptych of 50 silk-screened images made weeks after her death in August 1962?",
+      "answer": "Marilyn Monroe",
+      "options": [
+        "Marilyn Monroe",
+        "Audrey Hepburn",
+        "Jackie Kennedy",
+        "Brigitte Bardot"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Marilyn Monroe. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m03",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 2,
+      "question": "The Bayeux Tapestry is technically not a tapestry at all — it is actually what, because its designs are applied differently?",
+      "answer": "Embroidery",
+      "options": [
+        "Embroidery",
+        "Weaving",
+        "Quilting",
+        "Appliqué"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Embroidery. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m04",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 2,
+      "question": "Which Palestinian symbol — forever ten years old, hedgehog-haired, with bare feet, standing with his back to the viewer since 1973 — was created by Naji al-Ali and takes his name from a bitter Middle Eastern plant?",
+      "answer": "Handala",
+      "options": [
+        "Handala",
+        "Falasteen",
+        "Sabra",
+        "Watan"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Handala. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m05",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 2,
+      "question": "Which textile block-printing technique, practised in Kutch, India and Sindh, Pakistan, takes its name either from an Arabic word for blue or from a king's instruction not to change his printed bedsheets?",
+      "answer": "Ajrak",
+      "options": [
+        "Batik",
+        "Ajrak",
+        "Bandhani",
+        "Ikat"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Ajrak. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m06",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 2,
+      "question": "Vanessa Bell's home on Gordon Square, London was the meeting place for a group of radical intellectuals. Her younger sister started a notable publishing house — which one?",
+      "answer": "Hogarth Press",
+      "options": [
+        "Faber & Faber",
+        "Hogarth Press",
+        "Bloomsbury Publishing",
+        "Chatto & Windus"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Hogarth Press. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m07",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 2,
+      "question": "What is the seven-letter Japanese word for a type of soy-seasoned soybean dish, cooked on a branch to allow street-eating while standing?",
+      "answer": "Edamame",
+      "options": [
+        "Edamame",
+        "Tempura",
+        "Karaage",
+        "Gyoza"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Edamame. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m08",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 2,
+      "question": "While X is a type of Y, not every Y is X. To be called X, the Y must come from a sturgeon (Acipenseridae family) and be salt-cured. Y is simply ripe, unfertilised eggs from any marine animal. What are X and Y?",
+      "answer": "Caviar",
+      "options": [
+        "Caviar",
+        "Bottarga",
+        "Ikura",
+        "Tarama"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Caviar. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m09",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 2,
+      "question": "In 2000, Unilever bought which American ice cream company — originally intended to be a bagel-making venture — while allowing it autonomy to champion social causes, including refusing to sell in Israeli settlements?",
+      "answer": "Ben & Jerry's",
+      "options": [
+        "Häagen-Dazs",
+        "Ben & Jerry's",
+        "Talenti",
+        "Ciao Bella"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Ben & Jerry's. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m10",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Food",
+      "difficulty": 2,
+      "question": "The MTR restaurant near Lalbagh in Bangalore has served its signature dessert 'Chandrahara' since the 1950s. Before that it was called '_____ sweet' — named after a European country connected to the garden's 18th-century patron. Which country?",
+      "answer": "French",
+      "options": [
+        "French",
+        "Dutch",
+        "British",
+        "Portuguese"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's French. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m11",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Movies",
+      "difficulty": 2,
+      "question": "Whose cinematic debut as a director takes its title from the words 'blood-simple', found in Dashiell Hammett's novel Red Harvest?",
+      "answer": "Coen Brothers",
+      "options": [
+        "Coen Brothers",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Soderbergh"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Coen Brothers. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m12",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Movies",
+      "difficulty": 2,
+      "question": "The movie Anora became only the fourth film to win both the Oscar for Best Picture and the Palme d'Or at Cannes. Which film directly before it achieved this double?",
+      "answer": "Parasite",
+      "options": [
+        "Roma",
+        "Parasite",
+        "The Shape of Water",
+        "Birdman"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Parasite. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m13",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Movies",
+      "difficulty": 2,
+      "question": "Howard Dietz chose the MGM lion mascot as homage to his alma mater Columbia University. How many different lions have played the MGM mascot role?",
+      "answer": "Nine",
+      "options": [
+        "Four",
+        "Nine",
+        "Six",
+        "Twelve"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Nine. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m14",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "Which 12th-century Indian work of erotic poetry, beloved by Goethe, was translated by Barbara Stoler Miller as 'Love Song of the Dark Lord'?",
+      "answer": "Gita Govinda",
+      "options": [
+        "Gita Govinda",
+        "Meghaduta",
+        "Amarushataka",
+        "Ritusamhara"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Gita Govinda. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m15",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "A WWI-era word for a small creature blamed for mechanical failures in aircraft, blending 'goblin' with the name of a beer popular with the RAF, features in a children's book by which author?",
+      "answer": "Roald Dahl",
+      "options": [
+        "Roald Dahl",
+        "C.S. Lewis",
+        "P.L. Travers",
+        "Enid Blyton"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Roald Dahl. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_m16",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 2,
+      "question": "In 2025, which writer created history by achieving a first — she was enrolled in school at age eight on condition she could read and write in six months, and began writing after just a few days?",
+      "answer": "Banu Mushtaq",
+      "options": [
+        "Banu Mushtaq",
+        "Perumal Murugan",
+        "Geetanjali Shree",
+        "Vivek Shanbhag"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Banu Mushtaq. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h01",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 3,
+      "question": "The Rosetta Stone bears text in Ancient Greek and Egyptian hieroglyphs plus a third script — the cursive Egyptian script used for daily purposes, meaning 'language of the people'. Name it.",
+      "answer": "Demotic",
+      "options": [
+        "Demotic",
+        "Hieratic",
+        "Coptic",
+        "Linear A"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Demotic. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h02",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 3,
+      "question": "An ekphrastic poem by Anne Sexton begins: 'The town does not exist / except where one black-haired tree slips / up like a drowned woman into the hot sky...' Which painting does this describe?",
+      "answer": "The Starry Night",
+      "options": [
+        "The Starry Night",
+        "Starry Night Over the Rhone",
+        "A Sunday Afternoon",
+        "Wheat Field with Crows"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's The Starry Night. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h03",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Art",
+      "difficulty": 3,
+      "question": "After being blacklisted in a feud over access to the blackest pigment (Vantablack), artist Stuart Semple legally changed his name in 2024 to that of his rival. What name did he take?",
+      "answer": "Anish Kapoor",
+      "options": [
+        "Anish Kapoor",
+        "Damien Hirst",
+        "Banksy",
+        "Tracey Emin"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Anish Kapoor. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h04",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Movies",
+      "difficulty": 3,
+      "question": "The title of a screenplay caught a director's eye in Spy magazine: '___  ___ _______'. His writing partner described it as 'about criminals who meet in a police line-up.' Which film?",
+      "answer": "The Usual Suspects",
+      "options": [
+        "The Usual Suspects",
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Heat"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's The Usual Suspects. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h05",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Movies",
+      "difficulty": 3,
+      "question": "The structure described as home to 'South Asian merchants, African entrepreneurs, Indian workers, asylum seekers, and penurious travelers' is the subject of Gordon Mathews' book and was featured in a 1994 movie title. What structure?",
+      "answer": "Chungking Mansions",
+      "options": [
+        "Chungking Mansions",
+        "Kowloon Walled City",
+        "Shek Kip Mei Estate",
+        "Tsim Sha Tsui Mall"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Chungking Mansions. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h06",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Movies",
+      "difficulty": 3,
+      "question": "Lars Von Trier's 'Antichrist' was released at Cannes in 2009 in two versions, with the uncut version given which appropo nickname?",
+      "answer": "Protestant",
+      "options": [
+        "Director's Cut",
+        "Protestant",
+        "Uncensored",
+        "Unrated"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Protestant. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h07",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "Mario Vargas Llosa wrote a 1975 appreciation of Flaubert's technique titled 'The Perpetual Orgy' and also a study of Gabriel García Márquez subtitled what?",
+      "answer": "History of a Deicide",
+      "options": [
+        "History of a Deicide",
+        "Death of a Legend",
+        "Biography of Solitude",
+        "Murder of a Classic"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's History of a Deicide. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h08",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "In Shakespeare's The Tempest, Prospero says of Caliban: 'A devil, a born devil, on whose _____ / _____ can never stick.' The two missing words represent a long-standing debate in biology. Name them in order.",
+      "answer": "Nature, Nurture",
+      "options": [
+        "Nature, Nurture",
+        "Body, Mind",
+        "Genes, Culture",
+        "Form, Function"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Nature, Nurture. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h09",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "He wrote a large part of the epic that made his reputation while serving as Superintendent for the Dead and Missing at Macau in the 1560s. Name the work.",
+      "answer": "The Lusiads",
+      "options": [
+        "The Lusiads",
+        "The Aeneid",
+        "The Inferno",
+        "Os Maias"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's The Lusiads. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p1_h10",
+      "source": "mindsweep_2025_p1",
+      "year": 2025,
+      "category": "Literature",
+      "difficulty": 3,
+      "question": "Whose upcoming memoir, with its title taken from a line in the Beatles' song 'Let It Be', reflects a complex relationship with a mother whose death in 2022 left her 'heart-smashed'?",
+      "answer": "Arundhati Roy",
+      "options": [
+        "Arundhati Roy",
+        "Jhumpa Lahiri",
+        "Meena Kandasamy",
+        "Shashi Tharoor"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Arundhati Roy. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e01",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "Freddie Maake claims to have invented a brightly coloured plastic horn that sounds like a 'swarm of bees', originally called Boogieblasts. By what Zulu word meaning 'welcome' and 'celebrate' is it now known?",
+      "answer": "Vuvuzela",
+      "options": [
+        "Vuvuzela",
+        "Kazoo",
+        "Digeridoo",
+        "Marimba"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Vuvuzela. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e02",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 1,
+      "question": "A barcarolle is a traditional folk song sung by which type of worker, unique to a Venetian lagoon, and also refers to music composed in that style?",
+      "answer": "Gondolier",
+      "options": [
+        "Gondolier",
+        "Fisherman",
+        "Sailor",
+        "Ferryman"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Gondolier. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e03",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "Diamond is the hardest mineral on the Mohs hardness scale. Which mineral, once commonly used in households, is the softest?",
+      "answer": "Talc",
+      "options": [
+        "Chalk",
+        "Talc",
+        "Gypsum",
+        "Limestone"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Talc. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e04",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "Alfred Fielding and Marc Chavannes accidentally invented what product when they put two pieces of plastic shower curtain through a heat-sealing machine — originally intended to be textured wallpaper?",
+      "answer": "Bubble Wrap",
+      "options": [
+        "Cling Film",
+        "Bubble Wrap",
+        "Foam Padding",
+        "Styrofoam"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Bubble Wrap. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e05",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 1,
+      "question": "Launched in 1929 by Gour Mohan Dutta, this Indian skincare brand is sold in distinctive dark green tubes and has an elephant — inspired by Ganesha — as its logo. What is it?",
+      "answer": "Boroline",
+      "options": [
+        "Boroline",
+        "Dabur Honey",
+        "Nycil",
+        "Boroplus"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Boroline. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e06",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Social Sciences",
+      "difficulty": 1,
+      "question": "What cognitive bias, named after a Scandinavian furniture conglomerate, describes a person overvaluing something simply because they helped create or assemble it?",
+      "answer": "IKEA effect",
+      "options": [
+        "IKEA effect",
+        "Endowment effect",
+        "Sunk cost fallacy",
+        "Halo effect"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's IKEA effect. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e07",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Business",
+      "difficulty": 1,
+      "question": "Which shoe company's bestselling 'clogs' feature ventilation holes that accommodate small decorative charms called Jibbitz, and ran the 'Ugly Can Be Beautiful' campaign in 2005?",
+      "answer": "Crocs",
+      "options": [
+        "Birkenstocks",
+        "Crocs",
+        "Ugg",
+        "Havaianas"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Crocs. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e08",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "Juan Carlos Ceriani Gravier created which form of indoor football in Uruguay in the 1930s for YMCAs, incorporating aspects of basketball, handball, and water polo?",
+      "answer": "Futsal",
+      "options": [
+        "Indoor Soccer",
+        "Futsal",
+        "Five-a-side",
+        "Foosball"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Futsal. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e09",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "Invented in Mexico in 1969 and described as the fastest-growing sport in the world, which game is played in a glass-and-mesh caged court with oversized table-tennis bats?",
+      "answer": "Padel",
+      "options": [
+        "Pickleball",
+        "Padel",
+        "Squash",
+        "Racquetball"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Padel. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e10",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "The surge in popularity of women's basketball and the WNBA has been attributed to the star power of which player — dubbed the 'GOAT of TV Ratings' by The Wall Street Journal?",
+      "answer": "Caitlin Clark",
+      "options": [
+        "A'ja Wilson",
+        "Caitlin Clark",
+        "Breanna Stewart",
+        "Diana Taurasi"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Caitlin Clark. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e11",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "In which sport would you achieve the rare feat of 'Robin Hooding' — splitting an arrow in your target with a second arrow?",
+      "answer": "Archery",
+      "options": [
+        "Archery",
+        "Darts",
+        "Javelin",
+        "Crossbow"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Archery. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e12",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "George Nissen, inspired by trapeze artists, invented what he called a 'tumbling device' in 1936 — later trademarked with a Spanish word meaning 'diving board'. What do we call it today?",
+      "answer": "Trampoline",
+      "options": [
+        "Trampoline",
+        "Springboard",
+        "Bouncy Castle",
+        "Pommel Horse"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Trampoline. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e13",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "Ítalo Ferreira (Brazil) and Carissa Moore (USA) were the first Olympic gold medalists in which sport, added to the Summer Olympics in 2020?",
+      "answer": "Surfing",
+      "options": [
+        "Skateboarding",
+        "Surfing",
+        "Sport Climbing",
+        "BMX Freestyle"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Surfing. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_e14",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 1,
+      "question": "Which 14-year-old Indian cricket prodigy was described in an Observer Sport article alongside references to Michelangelo at 14 and Mozart composing opera at 14?",
+      "answer": "Vaibhav Suryavanshi",
+      "options": [
+        "Vaibhav Suryavanshi",
+        "Yashasvi Jaiswal",
+        "Prithvi Shaw",
+        "Rinku Singh"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Vaibhav Suryavanshi. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m01",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "A pianist sat at a piano at the Maverick Concert Hall in Woodstock and simply closed the keyboard lid, then opened it — twice more. What piece of music was being premiered?",
+      "answer": "4'33\" by John Cage",
+      "options": [
+        "4'33\" by John Cage",
+        "One (Metallica)",
+        "Quiet City (Copland)",
+        "Silent Night"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's 4'33\" by John Cage. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m02",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "In April 2025, the White House used a 1990s one-hit wonder — while the original band condemned the use as 'missing the point'. What is the name of the song?",
+      "answer": "Closing Time",
+      "options": [
+        "Closing Time",
+        "Tubthumping",
+        "Mambo No. 5",
+        "Macarena"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Closing Time. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m03",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "During his 2025 Coachella performance, Indian rapper Hanumankind invited musicians who played which traditional percussion instrument associated with Kerala?",
+      "answer": "Chenda",
+      "options": [
+        "Chenda",
+        "Mridangam",
+        "Tabla",
+        "Dholak"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Chenda. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m04",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "As the result of the Jay-Z vs. Nas feud in 2001, the title of which Nas song entered hip-hop lexicon as slang for 'ruthlessly humiliating an opponent'?",
+      "answer": "Ether",
+      "options": [
+        "Ether",
+        "Takeover",
+        "Blueprint",
+        "Supa Ugly"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Ether. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m05",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "Charlotte Emma Aitchison, who began posting on MySpace in 2008, performs under what stage name — an MSN Messenger screen name she picked because it 'looked cool'?",
+      "answer": "Charli XCX",
+      "options": [
+        "Charli XCX",
+        "Billie Eilish",
+        "Olivia Rodrigo",
+        "Sabrina Carpenter"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Charli XCX. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m06",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 2,
+      "question": "Which song was used to wake astronaut Dorothy Metcalf-Lindenburger on space shuttle mission STS-131 in April 2010, in honour of her planned spacewalk?",
+      "answer": "Defying Gravity",
+      "options": [
+        "Fly Me to the Moon",
+        "Defying Gravity",
+        "Space Oddity",
+        "Rocket Man"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Defying Gravity. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m07",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "Jay McLean, a second-year medical student, identified an anticoagulant in dog liver tissue in 1916. It was given a seven-letter name after where it was first observed. What is this medication?",
+      "answer": "Heparin",
+      "options": [
+        "Warfarin",
+        "Heparin",
+        "Aspirin",
+        "Coumarin"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Heparin. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m08",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "Games Slayter directed compressed air at molten glass in 1932, accidentally creating which material that Owens Corning commercialised with a familiar trade name?",
+      "answer": "Fibreglass",
+      "options": [
+        "Fibreglass",
+        "Plexiglass",
+        "Polystyrene",
+        "Nylon"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Fibreglass. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m09",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "Originally a public outreach facility at Trinity College Dublin in 2005, which organisation now has a Bangalore centre on Bellary Road with a black-and-brick facade modelled on the YSL Museum in Marrakesh?",
+      "answer": "Science Gallery",
+      "options": [
+        "Science Gallery",
+        "Natural History Museum",
+        "Visvesvaraya Museum",
+        "Jawaharlal Nehru Planetarium"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Science Gallery. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m10",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "He created a cholera vaccine and tested it on himself before bringing it to India, and later created a plague vaccine using coconut oil. Name this Odessa-born researcher.",
+      "answer": "Waldemar Haffkine",
+      "options": [
+        "Louis Pasteur",
+        "Waldemar Haffkine",
+        "Robert Koch",
+        "Paul Ehrlich"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Waldemar Haffkine. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m11",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "The ancestor of cetaceans (whales and dolphins), this wolf-like creature lived near water's edge before permanently moving into it. Its first fossil was found in Pakistan in 1981 — giving the genus its name. Which animal?",
+      "answer": "Pakicetus",
+      "options": [
+        "Ambulocetus",
+        "Pakicetus",
+        "Rodhocetus",
+        "Basilosaurus"
+      ],
+      "correctOption": 1,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Pakicetus. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m12",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Social Sciences",
+      "difficulty": 2,
+      "question": "First applied to pirates plundering Spanish colonies in the West Indies, this term later denoted American adventurers inciting revolution in Latin America and is now most associated with a US Senate tactic. What is it?",
+      "answer": "Filibuster",
+      "options": [
+        "Filibuster",
+        "Gerrymandering",
+        "Pork-barrelling",
+        "Logrolling"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Filibuster. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m13",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "First mentioned in a 1928 book, this game is played by dropping sticks from the upstream side of a bridge and seeing whose appears first on the downstream side. Name the game or the author who invented it.",
+      "answer": "Poohsticks",
+      "options": [
+        "Poohsticks",
+        "Ducks and Drakes",
+        "Stickle",
+        "Streamers"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Poohsticks. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m14",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "When English cricketer Natalie Sciver-Brunt hit a ball through her own legs in a match, what creative name was given to the shot?",
+      "answer": "Natmeg",
+      "options": [
+        "The Tunnel",
+        "Natmeg",
+        "The Squeeze",
+        "The Sciver"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Spot on! Your round, then!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Natmeg. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m15",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Sports",
+      "difficulty": 2,
+      "question": "Pictograms on Olympic signage were introduced on a large scale for the first time at which Summer Games, where hosts anticipated communication problems and created a universal visual language?",
+      "answer": "Tokyo 1964",
+      "options": [
+        "Rome 1960",
+        "Tokyo 1964",
+        "Mexico City 1968",
+        "Munich 1972"
+      ],
+      "correctOption": 1,
+      "win": [
+        "Got it in one! Sláinte!",
+        "Nailed it! You might just belong on this team."
+      ],
+      "lose": [
+        "Nope! It's Tokyo 1964. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_m16",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 2,
+      "question": "What was the name of the first chatbot, created in 1966 by MIT professor Joseph Weizenbaum, named after a character from a George Bernard Shaw play?",
+      "answer": "ELIZA",
+      "options": [
+        "ELIZA",
+        "ALICE",
+        "PARRY",
+        "HAL"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's ELIZA. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h01",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 3,
+      "question": "Castanets and cymbals, which work by bringing two parts together, are known by what medically alarming 10-letter name?",
+      "answer": "Concussion instruments",
+      "options": [
+        "Concussion instruments",
+        "Collision drums",
+        "Impact chimes",
+        "Percussion idiophones"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Concussion instruments. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h02",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 3,
+      "question": "Players of the ghumat, mhaddalem, and kanjira struggle to repair instruments due to the Wildlife Protection Act. From which species did makers source the raw material?",
+      "answer": "Monitor lizard",
+      "options": [
+        "Monitor lizard",
+        "Python",
+        "Crocodile",
+        "Iguana"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "Spot on! Your round, then!"
+      ],
+      "lose": [
+        "Nope! It's Monitor lizard. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h03",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 3,
+      "question": "Tracy Chapman's 1988 song 'Why?' asks 'Why are the missiles called ___________s / When they're aimed to kill?' referring to the ICBM LGM-118, deployed 1986-2005. What word fills the blank?",
+      "answer": "Peacekeeper",
+      "options": [
+        "Peacekeeper",
+        "Minuteman",
+        "Trident",
+        "Tomahawk"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's Peacekeeper. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h04",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Music",
+      "difficulty": 3,
+      "question": "This jazz musician composed 'The Queen's Suite' in 1959, had a single pressing made of the recording, and sent it directly to Queen Elizabeth II as a personal gift. He got his noble 'title' from a childhood friend. Who?",
+      "answer": "Duke Ellington",
+      "options": [
+        "Duke Ellington",
+        "Count Basie",
+        "Thelonious Monk",
+        "Miles Davis"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Nailed it! You might just belong on this team.",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Duke Ellington. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h05",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "What is the name of the complex magnetic field system that confines plasma in a hollow, doughnut-shaped container, whose name comes from a Russian acronym meaning 'toroidal chamber with magnetic coils'?",
+      "answer": "Tokamak",
+      "options": [
+        "Tokamak",
+        "Stellarator",
+        "Cyclotron",
+        "Synchrotron"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Right you are! Pint incoming.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Tokamak. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h06",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "Which spacecraft took the first and only images of six planets of our solar system — collectively called 'The Family Portrait' by NASA — though only one image from the set became truly iconic?",
+      "answer": "Voyager 1",
+      "options": [
+        "Voyager 1",
+        "Voyager 2",
+        "Pioneer 10",
+        "Cassini"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Correct! The regulars are impressed.",
+        "The QM nods — one point closer to glory!"
+      ],
+      "lose": [
+        "Nope! It's Voyager 1. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h07",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Science",
+      "difficulty": 3,
+      "question": "Who was the first woman elected to the French Académie des Sciences? She discovered an element and named it after her country.",
+      "answer": "Marguerite Perey",
+      "options": [
+        "Marguerite Perey",
+        "Irène Joliot-Curie",
+        "Marie Curie",
+        "Yvette Cauchois"
+      ],
+      "correctOption": 0,
+      "win": [
+        "The QM nods — one point closer to glory!",
+        "Right you are! Pint incoming."
+      ],
+      "lose": [
+        "Nope! It's Marguerite Perey. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h08",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Social Sciences",
+      "difficulty": 3,
+      "question": "Sociologists Merton and Zuckerman coined the '_____ Effect' — borrowing from a Biblical parable — to describe how eminent scientists get more credit than lesser-known researchers for similar work. What is the effect named after?",
+      "answer": "Matthew",
+      "options": [
+        "Matthew",
+        "Solomon",
+        "Job",
+        "David"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Sharp as a dart! Well played.",
+        "Got it in one! Sláinte!"
+      ],
+      "lose": [
+        "Nope! It's Matthew. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h09",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Social Sciences",
+      "difficulty": 3,
+      "question": "Harold Laski served as Labour Party chairman during a crucial period, and Churchill controversially claimed Laski would be the 'grey eminence' driving the party on a Marxist agenda. During which UK election?",
+      "answer": "1945 General Election",
+      "options": [
+        "1945 General Election",
+        "1950 General Election",
+        "1935 General Election",
+        "1951 General Election"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Correct! The regulars are impressed."
+      ],
+      "lose": [
+        "Nope! It's 1945 General Election. Have a sip and move on."
+      ]
+    },
+    {
+      "id": "ms2025p2_h10",
+      "source": "mindsweep_2025_p2",
+      "year": 2025,
+      "category": "Social Sciences",
+      "difficulty": 3,
+      "question": "Mansa Musa, described as 'richer than anyone could describe', topped Time magazine's 2015 list of the 10 richest people of all time. His lavish spending during his Hajj pilgrimage caused a currency crisis in which country?",
+      "answer": "Egypt",
+      "options": [
+        "Egypt",
+        "Mali",
+        "Persia",
+        "Morocco"
+      ],
+      "correctOption": 0,
+      "win": [
+        "Spot on! Your round, then!",
+        "Sharp as a dart! Well played."
+      ],
+      "lose": [
+        "Nope! It's Egypt. Have a sip and move on."
+      ]
     }
   ]
 }
