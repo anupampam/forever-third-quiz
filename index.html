@@ -842,9 +842,7 @@ async function saveScore() {
   diff: record.diff,
   date: record.date
 });
-await fetch(`${GOOGLE_SHEET_URL}?${params}`, {
-  method: "GET",
-  mode: "no-cors"
+new Image().src = `${GOOGLE_SHEET_URL}?${params}`;
 });
     status.className = "save-status ok";
     status.textContent = "✓ Score saved to the leaderboard! 🍺";
