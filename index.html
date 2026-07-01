@@ -561,7 +561,7 @@
 
 <script>
 // ══ CONFIG ═══════════════════════════════════════════════════════
-const GOOGLE_SHEET_URL = "https://script.google.com/a/macros/atherenergy.com/s/AKfycbycwD_8GEsSuBTC8xbYJQgFsxzTMnwVacuMJD9lhfxOKeGoDZ2gOIKQEFPoVaEKFSmX/exec"; // Replace after deploying appscript.js
+const GOOGLE_SHEET_URL = "https://script.google.com/a/macros/atherenergy.com/s/AKfycbzX1H186d3JCX6TJh8Na9Z41pt1c8I8YjOGkix8d7w2Q_HSsUdxBzKhA5C-0r8X8MjK/exec"; // Replace after deploying appscript.js
 
 const QUIZ_LENGTH  = { 1: 10, 2: 15, 3: 20 };
 const QUIZ_TIME    = { 1: 60, 2: 40, 3: 25 };
@@ -834,13 +834,18 @@ async function saveScore() {
   }
 
   try {
-    await fetch(GOOGLE_SHEET_URL, {
-      method: "POST",
-      mode: "no-cors",
-      headers: { "Content-Type": "text/plain" },
-      //headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(record),
-    });
+   const params = new URLSearchParams({
+  name: record.name,
+  score: record.score,
+  total: record.total,
+  pct: record.pct,
+  diff: record.diff,
+  date: record.date
+});
+await fetch(`${GOOGLE_SHEET_URL}?${params}`, {
+  method: "GET",
+  mode: "no-cors"
+});
     status.className = "save-status ok";
     status.textContent = "✓ Score saved to the leaderboard! 🍺";
   } catch (e) {
